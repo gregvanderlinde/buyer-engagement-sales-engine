@@ -11,9 +11,13 @@ Curiosity In. Alignment. Outcomes Out.
 
 ## What this is
 
-The **Free library** for The Buyer Engagement Sales Engine -- method vocabulary and worksheets you can use today.
+This repo is the **Free library** for **The Buyer Engagement Sales Engine** -- a **sales-process operating system in a folder**.
 
-Owners and sellers often sell on hustle without a repeatable way to engage buyers. This library gives the **words and ideas**. The **engine** that runs the method on your deals (skills, Boot, send gate, memory in your folder) is separate and paid when open.
+The full product runs the **Buyer Engagement Process** on **your** AI (Claude or Grok), on **your** machine: durable folders, memory on disk, drafts only until **you** say send. That's the Golden Wedge -- AI without a real process on disk finally gets one.
+
+Here you get the **words and ideas** (terms, preview entries, worksheet fronts, Fit Chat). A library you can browse and use **while you sell** -- learn as you go, not a homework course before you start. The **engine** that runs deals (skills, Boot, send gate, live memory) stays in the paid package when open.
+
+Not another tip list. Not a cloud that owns your pipeline. Method vocabulary today; process OS when you're ready.
 
 ---
 
@@ -48,19 +52,21 @@ Maker owns the product. You own your business data and customizations. See owner
 
 ## What is not in here
 
-The **engine** -- folder + skills that run buyer engagement on your machine inside Claude or Grok, with a human send gate and no invented proof.
+- The **engine** -- folder + skills that run buyer engagement on your machine (paid when open)
+- An **AI SDR** that auto-sends or burns domains
+- Another **destination login** / empty checklist CRM
+- **Invented proof**, fake ROI, or pitch-and-pray scripts
+- A homework course before you can work
 
-Private beta; pricing being set. Upgrades: Free -> Run -> Automate (Team is proposal).
+Private beta for the engine; **pricing being set**. Ladder: Free -> Run -> Automate (Team is proposal).
 
 ---
 
 ## Want the engine / updates?
 
-**Landing (planned Abzu orphan page):**  
-`https://abzurefinery.com/buyer-engagement`  
-(Web lane to add as orphan page on the Abzu site -- not live until Web deploys.)
+Discussion and "when Run opens" on **LinkedIn** (Greg van der Linde).
 
-Until that page is live: discussion and "when Run opens" on **LinkedIn** (Greg van der Linde). Fit Chat: paste `FIT_CHAT_PASTE.txt` into Claude/Grok with `HOW_WE_HELP.md`.
+Fit Chat: paste `FIT_CHAT_PASTE.txt` into Claude/Grok with `HOW_WE_HELP.md`.
 
 ---
 
