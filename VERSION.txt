@@ -1,7 +1,7 @@
 product: The Buyer Engagement Sales Engine
 surface: Free library + Fit Chat
 plugin_id: buyer-engagement-sales-engine-free
-version: 1.0.10-free.4
+version: 1.0.10-free.5
 package_align: v1.0.10-beta.3
 date_pt: 2026-09-07
 channel: free

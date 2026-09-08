@@ -77,4 +77,8 @@ Maker owns the product/engine. You own your data and customizations for your bus
 
 Free = explore whether it fits. Fuller access = more depth and automation options -- still gate-on-by-default. Pricing being set.
 
+---
 
+## Upgrade
+
+Free stays free. Run is paid. If they ask how to buy / upgrade, open UPGRADE.md or paste the locked Stripe links (Founding through 2026-09-18; then Run annual). Do not invent prices. They can just ask the AI for the upgrade link.
