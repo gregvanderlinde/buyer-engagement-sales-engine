@@ -1,44 +1,69 @@
 # Install as plugin -- Free only
+## Version 1.0.10-free.2
 
 Product: **The Buyer Engagement Sales Engine**
 Channel: **Free** (library + Fit Chat)
-Plugin id: uyer-engagement-sales-engine-free
+Plugin id: `buyer-engagement-sales-engine-free`
 Display: Buyer Engagement Sales Engine -- Free
-Version: **1.0.10-free.1**
-
-This marketplace / plugin ships the **Free** surface only. The paid engine (Boot, _system skills, operating loop) is **not** included.
+Version: **1.0.10-free.2**
 
 Repo: https://github.com/gregvanderlinde/buyer-engagement-sales-engine
 
+This marketplace / plugin ships the **Free** surface only. The paid engine (Boot, `_system` skills, operating loop) is **not** included.
+
 ---
 
-## Claude Code
+## Boundary: Free vs paid
 
-### Add marketplace from this repo
+| | Free (this repo / this plugin) | Paid (separate package) |
+| --- | --- | --- |
+| What | Library previews, HOW_WE_HELP, Fit Chat, three Free skills | Full engine: Boot, `_system`, send-gate operating loop, paid library depth |
+| Install | Plugin / marketplace from this GitHub repo | Separate Run package (Stripe / fulfill when open) |
+| Expect | Orient, Fit Chat, browse `library/` | Do **not** expect Boot or engine skills from Free |
 
-1. Clone or open this repository.
-2. In Claude Code: add marketplace pointing at this repo (marketplace manifest: .claude-plugin/marketplace.json).
-3. Install plugin: uyer-engagement-sales-engine-free.
+---
 
-### Or load a local clone
+## Claude Code -- click-by-click
 
-`ash
+### Path A -- from GitHub (preferred)
+
+1. Open https://github.com/gregvanderlinde/buyer-engagement-sales-engine
+2. Clone or Download ZIP; unzip to a durable folder (keep the folder; do not delete `.claude-plugin/`).
+3. Open Claude Code in a terminal.
+4. Add marketplace: `/plugin marketplace add` with the path or git URL to this repo (manifest at `.claude-plugin/marketplace.json`).
+5. Install: `/plugin install buyer-engagement-sales-engine-free` (or via `/plugin` UI).
+6. `/reload-plugins` if prompted.
+7. Try `/buyer-engagement-sales-engine-free:bese-free-orient` then fit and library skills.
+
+### Path B -- local test without marketplace
+
+```bash
 claude --plugin-dir /path/to/buyer-engagement-sales-engine
-`
+```
 
-Skills (namespaced under the plugin):
-
-- ese-free-orient -- what Free is / Golden Wedge overview
-- ese-free-fit -- Fit Chat (buy / not-buy)
-- ese-free-library -- browse library/ vocabulary and previews
+Replace `/path/to/buyer-engagement-sales-engine` with your durable clone folder.
 
 ---
 
-## Grok Build
+## Grok Build -- click-by-click
 
-1. Add marketplace from this repo (manifest: .grok-plugin/marketplace.json).
-2. Install the same plugin id: uyer-engagement-sales-engine-free.
-3. Skills mirror Claude: orient, fit, library.
+1. Same clone of the GitHub repo (https://github.com/gregvanderlinde/buyer-engagement-sales-engine).
+2. In Grok Build: open Marketplace / `/marketplace` or config marketplace sources.
+3. Add this repo as marketplace (manifest: `.grok-plugin/marketplace.json`).
+4. Install `buyer-engagement-sales-engine-free`.
+5. Run skills: `bese-free-orient`, `bese-free-fit`, `bese-free-library`.
+
+---
+
+## Skills table
+
+| Skill folder | What |
+| --- | --- |
+| `bese-free-orient` | What Free is / Golden Wedge |
+| `bese-free-fit` | Fit Chat |
+| `bese-free-library` | Browse `library/` |
+
+On Claude Code, skills are namespaced under the plugin, e.g. `/buyer-engagement-sales-engine-free:bese-free-orient`.
 
 ---
 
@@ -46,16 +71,24 @@ Skills (namespaced under the plugin):
 
 | Surface | Version string | Notes |
 | --- | --- | --- |
-| Free plugin (Claude + Grok) | 1.0.10-free.1 | This repo / this marketplace |
+| Free plugin (Claude + Grok) | **1.0.10-free.2** | This repo / this marketplace |
 | Paid package (separate) | v1.0.10-beta.3 | Not shipped here |
 
-package_align in VERSION.txt ties Free plugin cut .1 to package 1.0.10.
+`package_align` in VERSION.txt ties Free plugin cut `.2` to package `v1.0.10-beta.3`.
 
 ---
 
-## Explicit boundary
+## Explicit boundary (in / out)
 
 - **In:** Free library, HOW_WE_HELP, Fit Chat, Free skills above
-- **Out:** paid engine, Boot, _system, send-gate operating loop, paid depth behind FREE PREVIEW ENDS HERE
+- **Out:** paid engine, Boot, `_system`, send-gate operating loop, paid depth behind FREE PREVIEW ENDS HERE
+
+---
+
+## Not yet (honest)
+
+Official Anthropic community directory submit / xAI marketplace PR -- separate Greg GO; this repo is installable as your own marketplace now.
+
+---
 
 Licence: MIT for this Free surface. Author: Greg van der Linde / gregvanderlinde@gmail.com

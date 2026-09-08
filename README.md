@@ -27,10 +27,10 @@ Not another tip list. Not a cloud that owns your pipeline. Method vocabulary tod
 Claude Code and Grok Build can load this Free surface as a plugin.
 
 - Plugin id: `buyer-engagement-sales-engine-free`
-- Version: **1.0.10-free.1**
+- Version: **1.0.10-free.2**
 - Free only -- paid engine not included
 
-See **[PLUGINS.md](PLUGINS.md)** for marketplace install, `claude --plugin-dir`, and the version table.
+See **[PLUGINS.md](PLUGINS.md)** for **click-by-click** install (Claude Path A/B + Grok Build), skills table, and version table.
 ## What is in here (Free surface)
 
 ```

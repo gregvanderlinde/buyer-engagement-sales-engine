@@ -1,9 +1,10 @@
 product: The Buyer Engagement Sales Engine
 surface: Free library + Fit Chat
 plugin_id: buyer-engagement-sales-engine-free
-version: 1.0.10-free.1
+version: 1.0.10-free.2
 package_align: v1.0.10-beta.3
 date_pt: 2026-09-07
 channel: free
 hosts: Claude Code plugin + Grok Build plugin
 github: https://github.com/gregvanderlinde/buyer-engagement-sales-engine
+note: free.2 -- click-by-click install in PLUGINS.md + process Path F; kitchen ~2009PT
