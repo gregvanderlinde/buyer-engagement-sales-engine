@@ -1,11 +1,11 @@
 # Install as plugin -- Free only
-## Version 1.0.10-free.2
+## Version 1.0.10-free.3
 
 Product: **The Buyer Engagement Sales Engine**
 Channel: **Free** (library + Fit Chat)
 Plugin id: `buyer-engagement-sales-engine-free`
 Display: Buyer Engagement Sales Engine -- Free
-Version: **1.0.10-free.2**
+Version: **1.0.10-free.3**
 
 Repo: https://github.com/gregvanderlinde/buyer-engagement-sales-engine
 
@@ -71,7 +71,7 @@ On Claude Code, skills are namespaced under the plugin, e.g. `/buyer-engagement-
 
 | Surface | Version string | Notes |
 | --- | --- | --- |
-| Free plugin (Claude + Grok) | **1.0.10-free.2** | This repo / this marketplace |
+| Free plugin (Claude + Grok) | **1.0.10-free.3** | This repo / this marketplace |
 | Paid package (separate) | v1.0.10-beta.3 | Not shipped here |
 
 `package_align` in VERSION.txt ties Free plugin cut `.2` to package `v1.0.10-beta.3`.

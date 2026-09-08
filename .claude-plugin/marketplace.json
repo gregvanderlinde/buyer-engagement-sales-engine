@@ -1,22 +1,38 @@
 {
-  "name": "buyer-engagement-sales-engine",
-  "description": "The Buyer Engagement Sales Engine -- Free library marketplace",
-  "owner": {
-    "name": "Greg van der Linde",
-    "email": "gregvanderlinde@gmail.com"
-  },
-  "plugins": [
-    {
-      "name": "buyer-engagement-sales-engine-free",
-      "source": "./",
-      "description": "Free library + Fit Chat for The Buyer Engagement Sales Engine. Sales-process OS door -- not the paid engine.",
-      "version": "1.0.10-free.2",
-      "author": {
-        "name": "Greg van der Linde",
-        "email": "gregvanderlinde@gmail.com"
-      },
-      "homepage": "https://github.com/gregvanderlinde/buyer-engagement-sales-engine",
-      "keywords": ["sales", "buyer-engagement", "free", "library"]
-    }
-  ]
+    "name":  "buyer-engagement-sales-engine",
+    "description":  "The Buyer Engagement Sales Engine -- Free library marketplace",
+    "owner":  {
+                  "name":  "Greg van der Linde",
+                  "email":  "gregvanderlinde@gmail.com"
+              },
+    "plugins":  [
+                    {
+                        "name":  "buyer-engagement-sales-engine-free",
+                        "source":  "./",
+                        "description":  "Free library + Fit Chat. Sales-process OS door for Claude/Grok -- learn as you go. Not an AI SDR. Not the paid engine.",
+                        "version":  "1.0.10-free.3",
+                        "author":  {
+                                       "name":  "Greg van der Linde",
+                                       "email":  "gregvanderlinde@gmail.com"
+                                   },
+                        "homepage":  "https://github.com/gregvanderlinde/buyer-engagement-sales-engine",
+                        "keywords":  [
+                                         "sales",
+                                         "sales-process",
+                                         "buyer-engagement",
+                                         "sales-methodology",
+                                         "sales-os",
+                                         "local-first",
+                                         "claude",
+                                         "claude-code",
+                                         "claude-plugin",
+                                         "grok",
+                                         "ai-sales",
+                                         "fit-chat",
+                                         "free-library",
+                                         "golden-wedge",
+                                         "mit"
+                                     ]
+                    }
+                ]
 }
