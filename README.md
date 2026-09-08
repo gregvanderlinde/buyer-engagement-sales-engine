@@ -27,7 +27,7 @@ Not another tip list. Not a cloud that owns your pipeline. Method vocabulary tod
 Claude Code and Grok Build can load this Free surface as a plugin.
 
 - Plugin id: `buyer-engagement-sales-engine-free`
-- Version: **1.0.10-free.3**
+- Version: **1.0.10-free.4**
 - Free only -- paid engine not included
 
 See **[PLUGINS.md](PLUGINS.md)** for **click-by-click** install (Claude Path A/B + Grok Build), skills table, and version table.
@@ -75,18 +75,30 @@ Maker owns the product. You own your business data and customizations. See owner
 - **Invented proof**, fake ROI, or pitch-and-pray scripts
 - A homework course before you can work
 
-Private beta for the engine; **pricing being set**. Ladder: Free -> Run -> Automate (Team is proposal).
+Private beta for the engine is open via Stripe. Ladder: Free -> Run -> Automate (Team is proposal). See [UPGRADE.md](UPGRADE.md).
 
 ---
 
-## Want the engine / updates?
-
-Discussion and "when Run opens" on **LinkedIn** (Greg van der Linde).
-
-Fit Chat: paste `FIT_CHAT_PASTE.txt` into Claude/Grok with `HOW_WE_HELP.md`.
-
----
-
+## Upgrade to Run
+
+Ready for the engine (Boot, skills, send gate on your machine)?
+
+See **[UPGRADE.md](UPGRADE.md)** for Stripe Payment Links:
+
+- **Founding $199 first year** (through 2026-09-18): https://buy.stripe.com/3cIbIVa3k5az2gv7CqdQQ00
+
+- **Run $499/yr**: https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01
+
+After pay, you get the Run zip by email (manual fulfill). Free library stays free.
+
+Fit Chat: paste `FIT_CHAT_PASTE.txt` into Claude/Grok with `HOW_WE_HELP.md`. LinkedIn: Greg van der Linde.
+
+
+
+---
+
+
+
 ## Who it is for
 
 - Owner-operators without a repeatable process
