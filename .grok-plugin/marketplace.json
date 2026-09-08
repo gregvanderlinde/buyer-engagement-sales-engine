@@ -1,0 +1,21 @@
+{
+  "name": "buyer-engagement-sales-engine",
+  "description": "The Buyer Engagement Sales Engine -- Free library marketplace",
+  "owner": {
+    "name": "Greg van der Linde"
+  },
+  "plugins": [
+    {
+      "name": "buyer-engagement-sales-engine-free",
+      "description": "Free library + Fit Chat. Sales-process OS door -- not the paid engine.",
+      "version": "1.0.10-free.1",
+      "category": "sales",
+      "homepage": "https://github.com/gregvanderlinde/buyer-engagement-sales-engine",
+      "keywords": ["sales", "buyer-engagement", "free", "library", "fit-chat"],
+      "source": {
+        "type": "local",
+        "path": "./"
+      }
+    }
+  ]
+}

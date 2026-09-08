@@ -1,0 +1,14 @@
+{
+  "name": "buyer-engagement-sales-engine-free",
+  "displayName": "Buyer Engagement Sales Engine -- Free",
+  "version": "1.0.10-free.1",
+  "description": "Free library + Fit Chat for The Buyer Engagement Sales Engine. Sales-process OS door -- learn as you go. NOT the paid engine (no Boot, no _system skills).",
+  "author": {
+    "name": "Greg van der Linde",
+    "email": "gregvanderlinde@gmail.com"
+  },
+  "homepage": "https://github.com/gregvanderlinde/buyer-engagement-sales-engine",
+  "repository": "https://github.com/gregvanderlinde/buyer-engagement-sales-engine",
+  "license": "MIT",
+  "keywords": ["sales", "buyer-engagement", "free", "library", "fit-chat"]
+}
