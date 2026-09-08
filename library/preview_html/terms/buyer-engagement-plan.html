@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FREE PREVIEW -- Buyer Engagement Plan | The Buyer Engagement Sales Engine</title>
+<style>
+:root{
+  --navy:#0e2233; --navy2:#143049; --gold:#c9a24a; --gold2:#e4cd93;
+  --paper:#f6f3ec; --ink:#12222f; --mist:#e8e4dc; --line:#d4cfc4;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font:18px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+h1,h2{font-family:Georgia,"Times New Roman",serif;font-weight:700;line-height:1.25;margin:0 0 .35em}
+.wrap{max-width:720px;margin:0 auto;padding:0 22px 48px}
+header{background:linear-gradient(160deg,var(--navy),var(--navy2));color:#fff;padding:22px 0 28px}
+.badge{display:inline-block;background:rgba(201,162,74,.18);border:1px solid var(--gold);
+  color:var(--gold2);text-transform:uppercase;letter-spacing:2.5px;font-size:11px;font-weight:700;
+  padding:5px 10px;border-radius:999px}
+.meta{margin-top:12px;color:var(--gold2);font-size:13px;letter-spacing:.4px}
+header h1{color:#fff;font-size:32px;margin:.35em 0 .15em}
+.kicker{color:var(--gold2);font-size:17px;font-style:italic}
+.tags{margin-top:12px;display:flex;flex-wrap:wrap;gap:6px}
+.tags span{border:1px solid rgba(228,205,147,.45);color:var(--gold2);border-radius:999px;
+  padding:3px 10px;font-size:12px}
+.exec{background:#fff;border:1px solid var(--line);border-left:5px solid var(--gold);
+  border-radius:10px;padding:16px 18px;margin:22px 0 0}
+.bl{background:var(--navy2);color:#f3efe6;border-radius:10px;padding:16px 18px;margin:14px 0 0}
+.lab{display:block;text-transform:uppercase;letter-spacing:1.4px;font-size:11px;font-weight:700;
+  color:var(--gold);margin-bottom:6px}
+.bl .lab{color:var(--gold2)}
+h2.section{font-size:22px;color:var(--navy);margin-top:26px}
+ul{margin:.4em 0 0;padding-left:22px}li{margin:.28em 0}
+.gate{margin:26px 0 0;padding:16px 18px;border:1px dashed var(--gold);border-radius:10px;background:#fff}
+.gate strong{display:block;color:var(--navy);letter-spacing:1px;font-size:14px;margin-bottom:6px}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:18px}
+.controls label{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line);
+  border-radius:8px;padding:10px 12px;cursor:pointer;font-size:15px}
+.btn{appearance:none;border:0;border-radius:8px;padding:10px 14px;font-size:15px;font-weight:700;cursor:pointer;text-decoration:none;display:inline-block}
+.btn-navy{background:var(--navy);color:#fff}
+.btn-ghost{background:transparent;border:1px solid var(--navy);color:var(--navy)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.chips a{display:inline-block;border:1px solid var(--gold);color:var(--navy);background:#fff;
+  border-radius:999px;padding:4px 12px;font-size:13px;text-decoration:none}
+.chips a:hover{background:rgba(201,162,74,.12)}
+.foot{margin-top:28px;padding-top:14px;border-top:1px solid var(--line);color:#5a6570;font-size:13px}
+.foot .brand{color:var(--navy);font-weight:700}
+.path{font-family:Consolas,Menlo,monospace;font-size:12px}
+.toast{display:none;margin-top:10px;color:var(--navy);font-size:14px}
+.toast.on{display:block}
+.secbox{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:12px 0 0}
+
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <span class="badge">FREE PREVIEW</span>
+    <div class="meta">term ? glossary</div>
+    <h1>Buyer Engagement Plan</h1>
+    
+    <div class="tags">
+      <span>term</span>
+    </div>
+  </div>
+</header>
+<div class="wrap">
+  <div class="bl"><span class="lab">Bottom line</span>
+    <p>the proof the buyer says they need to see to say yes -- built WITH them, not your demo script.</p>
+  </div>
+  <h2 class="section">In here</h2>
+  <ul>
+    <li>Buyer-owned proof plan</li>
+    <li>High-trust step</li>
+    <li>Feeds Lock</li>
+  </ul>
+  <div class="gate">
+    <strong>FREE PREVIEW ENDS HERE</strong>
+    Full Understanding it and Put it into practice live in the complete Buyer Engagement Sales Engine library.
+  </div>
+  <div class="controls">
+    <label><input type="checkbox" id="rl" /> Add to reading list</label>
+    <a class="btn btn-navy" id="openTab" href="buyer-engagement-plan.html" target="_blank" rel="noopener noreferrer">Open in new tab</a>
+    <button type="button" class="btn btn-ghost" id="ctaFull" title="Marketing-only in free pack">Open full library</button>
+  </div>
+  <div class="toast" id="toast"></div>
+  <div class="foot">
+    <div class="brand">The Buyer Engagement Sales Engine</div>
+    <div class="path">library/terms/buyer-engagement-plan.md</div>
+    <div>Curiosity In. Alignment. Outcomes Out.</div>
+  </div>
+</div>
+<script>
+(function(){
+  var KEY = "ee_free_reading_list";
+  var item = {
+    kind: "term",
+    id: "buyer-engagement-plan",
+    title: "Buyer Engagement Plan",
+    path: "library/terms/buyer-engagement-plan.md"
+  };
+  function load(){ try { return JSON.parse(localStorage.getItem(KEY) || "[]"); } catch(e){ return []; } }
+  function save(list){ localStorage.setItem(KEY, JSON.stringify(list)); }
+  function has(list){ return list.some(function(x){ return x.id === item.id && x.kind === item.kind; }); }
+  var cb = document.getElementById("rl");
+  var toast = document.getElementById("toast");
+  var list = load();
+  if (cb) {
+    cb.checked = has(list);
+    cb.addEventListener("change", function(){
+      list = load();
+      if (cb.checked) {
+        if (!has(list)) list.push(Object.assign({added_pt: new Date().toISOString()}, item));
+        toast.textContent = "Added to reading list (browser cache). Also append a row to work/READING_LIST.md when editing the pack.";
+      } else {
+        list = list.filter(function(x){ return !(x.id === item.id && x.kind === item.kind); });
+        toast.textContent = "Removed from reading list cache.";
+      }
+      save(list);
+      toast.className = "toast on";
+    });
+  }
+  var cta = document.getElementById("ctaFull");
+  if (cta) cta.addEventListener("click", function(){
+    toast.textContent = "Upgrade CTA (marketing-only in free pack). Full library ships separately.";
+    toast.className = "toast on";
+  });
+})();
+</script>
+</body>
+</html>

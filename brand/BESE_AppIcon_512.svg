@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.00 512.00" width="512" height="512" role="img" aria-label="The Buyer Engagement Sales Engine app icon">
+  <title>The Buyer Engagement Sales Engine app icon</title>
+  <desc>Rounded-square app icon and favicon source.</desc>
+  <rect width="512" height="512" rx="112" fill="#101418"/>
+  <g transform="translate(96.0000 96.0000) scale(3.333333)" fill="none" stroke-linecap="round">
+    <path d="M 51.97 10.21 A 38 38 0 0 1 51.97 85.79" stroke="#FFB612" stroke-width="7.00"/>
+    <path d="M 44.03 85.79 A 38 38 0 0 1 44.03 10.21" stroke="#2FA866" stroke-width="7.00"/>
+    <path d="M 48 19 A 14.5 14.5 0 0 1 48 48" stroke="#2FA866" stroke-width="6.50"/>
+    <path d="M 48 48 A 14.5 14.5 0 0 0 48 77" stroke="#FFB612" stroke-width="6.50"/>
+  </g>
+</svg>
