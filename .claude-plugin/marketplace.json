@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "buyer-engagement-sales-engine",
     "description":  "The Buyer Engagement Sales Engine -- Free library marketplace",
     "owner":  {
@@ -10,7 +10,7 @@
                         "name":  "buyer-engagement-sales-engine-free",
                         "source":  "./",
                         "description":  "Free library + Fit Chat. Sales-process OS door for Claude/Grok -- learn as you go. Not an AI SDR. Not the paid engine.",
-                        "version":  "1.0.10-free.5",
+                        "version":  "1.0.10-free.6",
                         "author":  {
                                        "name":  "Greg van der Linde",
                                        "email":  "gregvanderlinde@gmail.com"
@@ -36,3 +36,4 @@
                     }
                 ]
 }
+

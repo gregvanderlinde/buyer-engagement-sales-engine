@@ -10,7 +10,7 @@
 3. You will receive the Run package by email (manual fulfill -- zip of the engine folder).
 4. Unzip on your machine and follow the Day One / Boot notes in the package.
 
-## Prices (locked 2026-09-07)
+## Prices offer Stripe upgrade table (locked 2026-09-07)
 
 | Offer | Price | Link | Window |
 | --- | --- | --- | --- |

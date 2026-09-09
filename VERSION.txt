@@ -1,10 +1,11 @@
 product: The Buyer Engagement Sales Engine
 surface: Free library + Fit Chat
 plugin_id: buyer-engagement-sales-engine-free
-version: 1.0.10-free.5
-package_align: v1.0.10-beta.3
-date_pt: 2026-09-07
+version: 1.0.10-free.6
+package_align: v1.0.10-beta.5
+date_pt: 2026-09-08
 channel: free
 hosts: Claude Code plugin + Grok Build plugin
 github: https://github.com/gregvanderlinde/buyer-engagement-sales-engine
 discovery_keywords: sales, sales-process, buyer-engagement, sales-methodology, sales-os, local-first, claude, claude-code, claude-plugin, grok, ai-sales, fit-chat, free-library, golden-wedge, mit
+note: FreeWire v2 F1/F3/F5/F7 -- situational router, starter packs, Free worksheets fronts (no _system/templates)

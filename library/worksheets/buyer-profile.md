@@ -1,10 +1,12 @@
-# Worksheet pointer -- Buyer Profile
+# Worksheet pointer -- buyer-profile
 
-**Canonical template:** `_system/templates/11_Buyer_Profile.md`
+**Free:** this file is a preview front only. Read the term, use what is above the gate, jot notes while you sell.
 
-Library terms: term:fit-six, term:qualified-outcomes, term:power-map.
+Library term: term:gap (`library/terms/gap.md`).
 
-Do not duplicate the form here -- open the template kit file.
+**Run (paid):** full form body lives in the Run template kit as `_system/templates/11_Buyer_Profile.md`. That path is **not** in the Free zip -- do not tell Free users to open it here. Upgrade: `UPGRADE.md`.
+
+Per-person Buyer Profile (Run form).
 
 ## FREE PREVIEW ENDS HERE
 

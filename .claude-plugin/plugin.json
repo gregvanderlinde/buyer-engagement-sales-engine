@@ -1,7 +1,7 @@
-{
+﻿{
     "name":  "buyer-engagement-sales-engine-free",
     "displayName":  "Buyer Engagement Sales Engine -- Free",
-    "version":  "1.0.10-free.5",
+    "version":  "1.0.10-free.6",
     "description":  "Free library + Fit Chat for The Buyer Engagement Sales Engine -- a sales-process OS in a folder. Learn as you go on Claude or Grok. Local-first. Not an AI SDR. NOT the paid engine.",
     "author":  {
                    "name":  "Greg van der Linde",
@@ -28,3 +28,4 @@
                      "mit"
                  ]
 }
+

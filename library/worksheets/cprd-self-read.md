@@ -1,10 +1,12 @@
-# Worksheet pointer -- CPRD self-read
+# Worksheet pointer -- cprd-self-read
 
-**Canonical template:** `_system/templates/13_CPRD_SelfRead.md`
+**Free:** this file is a preview front only. Read the term, use what is above the gate, jot notes while you sell.
 
-Fills Your Setup sec 7. Library term: term:cprd (`library/terms/cprd.md`).
+Library term: term:cprd (`library/terms/cprd.md`).
 
-Do not duplicate the form here -- open the template kit file.
+**Run (paid):** full form body lives in the Run template kit as `_system/templates/13_CPRD_SelfRead.md`. That path is **not** in the Free zip -- do not tell Free users to open it here. Upgrade: `UPGRADE.md`.
+
+Fills Your Setup sec 7 (Run).
 
 ## FREE PREVIEW ENDS HERE
 
