@@ -38,6 +38,7 @@ Pure ASCII. Resolve `term:<id>` -> `library/terms/<id>.md`.
 | term:seller-brief | Seller Brief | system | Core | terms/seller-brief.md |
 | term:truth-file | Truth File | system | Core | terms/truth-file.md |
 | term:edge | Edge | system | Core | terms/edge.md |
+| term:golden-wedge | Golden Wedge | system | Core | terms/golden-wedge.md |
 | term:icp | ICP | system | Core | terms/icp.md |
 | term:hold-back | Hold-back | system | Core | terms/hold-back.md |
 | term:completeness | Completeness + certainty (blank/guess/known/committed) | system | Core | terms/completeness.md |

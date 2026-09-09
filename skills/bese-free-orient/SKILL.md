@@ -1,6 +1,6 @@
 ---
 name: bese-free-orient
-description: Orient to The Buyer Engagement Sales Engine Free library. Use when user installs Free, asks what this is, or wants Golden Wedge / sales folder OS overview.
+description: Orient to The Buyer Engagement Sales Engine Free library. Use when user installs Free, asks what this is, or wants Sales folder OS overview.
 ---
 
 # Orient -- Free library
@@ -13,7 +13,7 @@ Resolve rule: `term:<id>` -> `library/terms/<id>.md` (see `library/GLOSSARY.md`)
 
 - **Free** = library + Fit Chat. Learn as you go while you sell -- not a homework course before you start.
 - **Product** = a sales-process operating system in a folder (Buyer Engagement Process on their AI, on their machine).
-- **Golden Wedge** = AI without a real process on disk finally gets one: durable folders, memory on disk, drafts only until a human says send.
+- **Sales folder OS** = durable folders, memory on disk, drafts only until a human says send. **Golden Wedge** (method) = buyer-discovered Gap to Desired Outcome -- see `library/terms/golden-wedge.md` / term:golden-wedge.
 - **Paid engine (Run)** = separate package. Not in this plugin. No Boot, no _system skills, no operating loop here.
 - **No audio claims.** No AI SDR. No auto-send. Drafts until human send.
 
