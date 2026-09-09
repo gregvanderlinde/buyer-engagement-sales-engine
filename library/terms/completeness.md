@@ -20,6 +20,6 @@ A deal's stage is what is FILLED and CONFIRMED on the Buyer Profile + Continuum,
 
 **Lock rule:** Lock only after the Economic buyer + the deciding seat(s) confirm known commitments. Word Bank: Buyer Profile (not BEP).
 
-Stage is DERIVED from the strip, not typed by the rep. Template home: `_system/templates/06_Continuum_Tracker.md`.
+Stage is DERIVED from the strip, not typed by the rep. Free front: `library/worksheets/continuum-completeness.md`. Full Run template kit is paid-only (not in this Free zip).
 
 Related: term:continuum, term:fit-six, term:lock.

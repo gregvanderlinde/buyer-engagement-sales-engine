@@ -31,6 +31,6 @@ Do not assume "all VPs are Closers." Read the person; mark the read [CONFIRM] un
 
 ## Companion tool
 
-CPRD self-read worksheet: `_system/templates/13_CPRD_SelfRead.md` (library pointer: `library/worksheets/cprd-self-read.md`). Fills Your Setup sec 7.
+CPRD self-read worksheet (Free): `library/worksheets/cprd-self-read.md`. Full Run form body is paid-only (not in this Free zip). Fills Your Setup sec 7 after upgrade.
 
 Related: term:trust-ladder, term:know-thy-customer, term:cprd-overview, term:knowing-yourself-cprd, term:recognizing-personality-styles, term:selling-to-buyers-cprd.

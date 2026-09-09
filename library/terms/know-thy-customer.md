@@ -14,7 +14,7 @@ A title alone ("VP Sales") tells you nothing to sell to. The role's job descript
 
 ## Role Card store
 
-Workspace home: `work/roles/<RoleTitle>.md` (e.g. `work/roles/VP_Sales.md`). Company-specific branches allowed (`VP_Sales__Acme.md`). Template: `_system/templates/12_Role_Card.md`. Worksheet pointer: `library/worksheets/role-jd-read.md`.
+Workspace home: `work/roles/<RoleTitle>.md` (e.g. `work/roles/VP_Sales.md`). Company-specific branches allowed (`VP_Sales__Acme.md`). Free role worksheet front: `library/worksheets/role-jd-read.md`. Full Run Role Card template is paid-only (not in this Free zip). Worksheet pointer: `library/worksheets/role-jd-read.md`.
 
 ## Intake
 
