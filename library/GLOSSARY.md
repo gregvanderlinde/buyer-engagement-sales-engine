@@ -20,6 +20,7 @@ Pure ASCII. Resolve `term:<id>` -> `library/terms/<id>.md`.
 | term:engage-not-pitch-and-prove | Engage -- Not Pitch and Prove | system | Core | terms/engage-not-pitch-and-prove.md |
 | term:curiosity-conversation | The Curiosity Conversation (Open/Curious/Confirm) | system | Core | terms/curiosity-conversation.md |
 | term:gap | The Gap | system | Core | terms/gap.md |
+| term:qualified-wedge | Qualified Wedge | system | Core | terms/qualified-wedge.md |
 | term:fit-six | Fit Six | system | Core | terms/fit-six.md |
 | term:qualified-outcomes | Qualified Outcomes (Numbers x Win) | system | Core | terms/qualified-outcomes.md |
 | term:qualified-outcomes-overview | Qualified Outcomes -- Overview | system | Core | terms/qualified-outcomes-overview.md |
@@ -33,12 +34,13 @@ Pure ASCII. Resolve `term:<id>` -> `library/terms/<id>.md`.
 | term:continuum | Continuum (Conversation/Contact/Account) | system | Core | terms/continuum.md |
 | term:trust-ladder | Trust Ladder | system | Core | terms/trust-ladder.md |
 | term:cprd | CPRD (style read) | system | Core | terms/cprd.md |
+| term:nlp | NLP Language Engine | system | Core | terms/nlp.md |
 | term:send-gate | Send Gate | system | Core | terms/send-gate.md |
 | term:discovery | Discovery | system | Core | terms/discovery.md |
 | term:seller-brief | Seller Brief | system | Core | terms/seller-brief.md |
 | term:truth-file | Truth File | system | Core | terms/truth-file.md |
 | term:edge | Edge | system | Core | terms/edge.md |
-| term:golden-wedge | Golden Wedge | system | Core | terms/golden-wedge.md |
+| term:golden-wedge | Golden Wedge (SUPERSEDED -> Qualified Wedge) | system | Retired | terms/golden-wedge.md |
 | term:icp | ICP | system | Core | terms/icp.md |
 | term:hold-back | Hold-back | system | Core | terms/hold-back.md |
 | term:completeness | Completeness + certainty (blank/guess/known/committed) | system | Core | terms/completeness.md |
