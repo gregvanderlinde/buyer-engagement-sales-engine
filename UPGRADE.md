@@ -11,6 +11,8 @@
 4. Unzip on your machine and follow the Day One / Boot notes in the package.
 
 ## Prices offer Stripe upgrade table (locked 2026-09-07)
+> Date windows below are the only Free-surface place that names Founding/Run calendar bounds. Fit Chat and Free skills must not repeat end dates -- point here instead.
+
 
 | Offer | Price | Link | Window |
 | --- | --- | --- | --- |

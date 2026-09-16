@@ -5,15 +5,15 @@ description: Run Fit Chat for The Buyer Engagement Sales Engine. Use when decidi
 
 # Fit Chat -- Free
 
-Obey HOW_WE_HELP.md and FIT_CHAT_PASTE.txt hard limits. Concepts and outcomes only during the fit conversation.
+Obey `${CLAUDE_PLUGIN_ROOT}/HOW_WE_HELP.md` and `${CLAUDE_PLUGIN_ROOT}/FIT_CHAT_PASTE.txt` hard limits. Concepts and outcomes only during the fit conversation.
 
-Resolve rule: `term:<id>` -> `library/terms/<id>.md`.
+Resolve rule: `term:<id>` -> `${CLAUDE_PLUGIN_ROOT}/library/terms/<id>.md`.
 
 ## How to run
 
-1. Invite: ask if they want to see whether this would help them.
-2. Ask a few short questions (role, what they sell, what hurts).
-3. Reflect their situation in their words; mark guesses as questions.
+1. Warm invite: ask if they want to see whether this would help them.
+2. Guide one question at a time. Ask a few short questions (role, what they sell, what hurts). Grant competence.
+3. Build understanding in their words; help them name the Gap -- concept level. Mark guesses as questions.
 4. Say honestly: fit / maybe / not a fit -- and why at concept level.
 5. Prompt once: "Does this sound like it would help you -- or what would need to be true?"
 6. If fit: offer **one** of (their choice):
@@ -27,10 +27,10 @@ Do **not** teach process as a recipe inside Fit Chat. After they choose "browse 
 
 | Order | Asset | Why |
 | --- | --- | --- |
-| 1 | `term:gap` (`library/terms/gap.md`) | Name the distance they already feel |
-| 2 | `term:fit-six` (`library/terms/fit-six.md`) | Shared language for qualify (preview) |
-| 3 | `term:curiosity-conversation` (`library/terms/curiosity-conversation.md`) | How engagement sounds |
-| Optional | `library/worksheets/buyer-profile.md` | Worksheet **front** only (Free preview) |
+| 1 | `term:gap` (`${CLAUDE_PLUGIN_ROOT}/library/terms/gap.md`) | Name the distance they already feel |
+| 2 | `term:fit-six` (`${CLAUDE_PLUGIN_ROOT}/library/terms/fit-six.md`) | Shared language for qualify (preview) |
+| 3 | `term:curiosity-conversation` (`${CLAUDE_PLUGIN_ROOT}/library/terms/curiosity-conversation.md`) | How engagement sounds |
+| Optional | `${CLAUDE_PLUGIN_ROOT}/library/worksheets/buyer-profile.md` | Worksheet **front** only (Free preview) |
 
 Then: "Want more for a specific moment? Ask the library skill -- e.g. pitching too much, quiet deals, forecast guesses."
 
@@ -38,9 +38,11 @@ Learn: term:gap | term:fit-six | term:curiosity-conversation
 
 ## Upgrade (only if fit / they ask)
 
-- Founding `$199` first year through 2026-09-18: https://buy.stripe.com/3cIbIVa3k5az2gv7CqdQQ00
+Locked public line: **Intro $199, then $499. Limited-time offer.** Do not name end dates here -- see UPGRADE.md for windows.
+
+- Intro / Founding: https://buy.stripe.com/3cIbIVa3k5az2gv7CqdQQ00
 - Run `$499`/yr: https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01
-- Full steps: UPGRADE.md in the Free repo
+- Full steps: `${CLAUDE_PLUGIN_ROOT}/UPGRADE.md`
 - After pay: Run zip by email (manual fulfill)
 
 ## Never
@@ -51,5 +53,7 @@ Learn: term:gap | term:fit-six | term:curiosity-conversation
 - No auto-send offers
 - Drafts and advice only
 - Do not open `_system/` paths (not in Free)
+- Respect FREE PREVIEW ENDS HERE
 
 Brand: The Buyer Engagement Sales Engine. Tagline: Curiosity In. Alignment. Outcomes Out.
+Spine: Curiosity before pitch. Engage and ask. Human approval before send. Local-first. Learn while working.

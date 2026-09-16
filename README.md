@@ -10,6 +10,8 @@ Most people who sell were never given a process. This is that process -- as a sy
 
 Curiosity In. Alignment. Outcomes Out.
 
+We guide you one question at a time. We build your understanding. We help you close the Gap.
+
 ---
 
 ## What this is
@@ -19,6 +21,8 @@ This repo is the **Free library** for **The Buyer Engagement Sales Engine** -- a
 The full product runs the **Buyer Engagement Process** on **your** AI (Claude or Grok), on **your** machine: durable folders, memory on disk, drafts only until **you** say send. Sales folder OS: durable process on disk beside your AI. Golden Wedge (method): buyer-discovered Gap to Desired Outcome -- not a pitch wedge.
 
 Here you get the **words and ideas** (terms, preview entries, worksheet fronts, Fit Chat). A library you can browse and use **while you sell** -- learn as you go, not a homework course before you start. The **engine** that runs deals (skills, Boot, send gate, live memory) stays in the paid package when open.
+
+Curiosity before pitch. Engage and ask. Human approval before send. Local-first. Learn while working.
 
 Not another tip list. Not a cloud that owns your pipeline. Method vocabulary today; process OS when you're ready.
 
@@ -43,7 +47,7 @@ Claude Code and Grok Build can load this Free surface as a plugin.
 
 - Plugin id: `buyer-engagement-sales-engine-free`
 
-- Version: **1.0.10-free.5**
+- Version: **1.0.10-free.7**
 
 - Free only -- paid engine not included
 
