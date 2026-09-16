@@ -7,5 +7,5 @@ date_pt: 2026-09-16
 channel: free
 hosts: Claude Code plugin + Grok Build plugin
 github: https://github.com/gregvanderlinde/buyer-engagement-sales-engine
-discovery_keywords: sales, sales-process, buyer-engagement, sales-methodology, sales-os, local-first, claude, claude-code, claude-plugin, grok, ai-sales, fit-chat, free-library, golden-wedge, mit
+discovery_keywords: sales, sales-process, buyer-engagement, sales-methodology, sales-os, local-first, claude, claude-code, claude-plugin, grok, ai-sales, fit-chat, free-library, qualified-wedge, mit
 note: free.7 -- Creator spine voice; end-date hygiene (dates only in UPGRADE); CLAUDE_PLUGIN_ROOT path resolve in Free skills; package_align beta.8
