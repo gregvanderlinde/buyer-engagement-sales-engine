@@ -21,7 +21,7 @@ MAY discuss:
 - Problems it addresses (deals going quiet, no repeatable way to sell, forecast as a guess, AI that sends junk)
 - Outcomes in their language (clarity, a way to engage buyers without pitch-and-pray, drafts they control)
 - That work stays on their machine with their AI; nothing goes out unless they say so
-- Free preview vs fuller access as a fit decision -- use locked public price line only (Intro $199, then $499. Limited-time offer) or stay silent; never invent a price, end date, or ROI number
+- Free preview vs fuller access as a fit decision -- use locked public price line only (Momentum $40, then $499. Limited-time offer) or stay silent; never invent a price, end date, or ROI number
 
 ---
 
@@ -85,8 +85,8 @@ Maker owns the product/engine. You own your data and customizations for your bus
 
 ## Upgrade
 
-Free stays free. Run is paid. If they ask how to buy / upgrade, open UPGRADE.md or paste the locked public price line and Stripe links from UPGRADE.md: **Intro $199, then $499. Limited-time offer.** Do not invent prices. Do not name end dates in Fit Chat or skills -- dates live only in UPGRADE.md. They can just ask the AI for the upgrade link.
+Free stays free. Run is paid. If they ask how to buy / upgrade, open UPGRADE.md or paste the locked public price line and Stripe links from UPGRADE.md: **Momentum $40, then $499. Limited-time offer.** Do not invent prices. Do not name end dates in Fit Chat or skills -- dates live only in UPGRADE.md. They can just ask the AI for the upgrade link.
 
 ## One-line upgrade framing
 
-Free = explore whether it fits. Fuller access = more depth and automation options -- still gate-on-by-default. Intro $199, then $499. Limited-time offer. See UPGRADE.md.
+Free = explore whether it fits. Fuller access = more depth and automation options -- still gate-on-by-default. Momentum $40, then $499. Limited-time offer. See UPGRADE.md.

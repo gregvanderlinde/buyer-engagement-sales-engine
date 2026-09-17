@@ -120,7 +120,7 @@ Replace `/path/to/buyer-engagement-sales-engine` with your durable clone folder.
 
 | --- | --- |
 
-| `bese-free-orient` | What Free is / Qualified Wedge |
+| `bese-free-orient` | What Free is / Golden Wedge |
 
 | `bese-free-fit` | Fit Chat |
 
@@ -191,7 +191,7 @@ Licence: MIT for this Free surface. Author: Greg van der Linde / gregvanderlinde
 
 Free plugin does **not** include the engine. To buy Run:
 
-See **[UPGRADE.md](UPGRADE.md)** -- locked public line **Intro $199, then $499. Limited-time offer.** Stripe links and any date windows live only in UPGRADE.md (do not invent prices or links).
+See **[UPGRADE.md](UPGRADE.md)** -- locked public line **Momentum $40, then $499. Limited-time offer.** Stripe links and any date windows live only in UPGRADE.md (do not invent prices or links).
 
 After pay: manual zip fulfill by email. Free skills stay Free.
 

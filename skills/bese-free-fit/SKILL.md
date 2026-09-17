@@ -38,9 +38,9 @@ Learn: term:gap | term:fit-six | term:curiosity-conversation
 
 ## Upgrade (only if fit / they ask)
 
-Locked public line: **Intro $199, then $499. Limited-time offer.** Do not name end dates here -- see UPGRADE.md for windows.
+Locked public line: **Momentum $40, then $499. Limited-time offer.** Do not name end dates here -- see UPGRADE.md for windows.
 
-- Intro / Founding: https://buy.stripe.com/3cIbIVa3k5az2gv7CqdQQ00
+- Momentum: PENDING_CREATOR_STRIPE_40
 - Run `$499`/yr: https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01
 - Full steps: `${CLAUDE_PLUGIN_ROOT}/UPGRADE.md`
 - After pay: Run zip by email (manual fulfill)

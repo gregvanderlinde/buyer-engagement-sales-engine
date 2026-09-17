@@ -10,16 +10,16 @@
 3. You will receive the Run package by email (manual fulfill -- zip of the engine folder).
 4. Unzip on your machine and follow the Day One / Boot notes in the package.
 
-## Prices offer Stripe upgrade table (locked 2026-09-07)
-> Date windows below are the only Free-surface place that names Founding/Run calendar bounds. Fit Chat and Free skills must not repeat end dates -- point here instead.
+## Prices offer Stripe upgrade table (locked 2026-09-16)
+> Date windows below are the only Free-surface place that names Momentum/Run calendar bounds. Fit Chat and Free skills must not repeat end dates -- point here instead.
 
 
 | Offer | Price | Link | Window |
 | --- | --- | --- | --- |
-| **Founding -- first year** | `$199` USD one-time | https://buy.stripe.com/3cIbIVa3k5az2gv7CqdQQ00 | Through **2026-09-18** |
-| **Run -- annual** | `$499` USD / year | https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01 | From **2026-09-19** (also available now if you prefer list) |
+| **Momentum -- first year** | `$40` USD one-time | PENDING_CREATOR_STRIPE_40 | Through **2026-09-30** |
+| **Run -- annual** | `$499` USD / year | https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01 | From **2026-10-01** (also available now if you prefer list) |
 
-Founding is first-year access at the founding price. After 2026-09-18, use the Run annual link.
+Momentum is first-year access at the Momentum price. After 2026-09-30, use the Run annual link. (Founding/Intro $199 superseded by Momentum $40 2026-09-16.)
 
 ## What you get (Run)
 
