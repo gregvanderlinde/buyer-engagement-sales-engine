@@ -18,7 +18,7 @@ We guide you one question at a time. We build your understanding. We help you cl
 
 This repo is the **Free library** for **The Buyer Engagement Sales Engine** -- a **sales-process operating system in a folder**.
 
-The full product runs the **Buyer Engagement Process** on **your** AI (Claude or Grok), on **your** machine: durable folders, memory on disk, drafts only until **you** say send. Sales folder OS: durable process on disk beside your AI. Golden Wedge (method): buyer-discovered Gap to Desired Outcome -- not a pitch wedge.
+The full product runs the **Buyer Engagement Process** on **your** AI (Claude or Grok), on **your** machine: durable folders, memory on disk, drafts only until **you** say send. Sales folder OS: durable process on disk beside your AI. Qualified Wedge (method): buyer-discovered Gap to Desired Outcome -- not a pitch wedge.
 
 Here you get the **words and ideas** (terms, preview entries, worksheet fronts, Fit Chat). A library you can browse and use **while you sell** -- learn as you go, not a homework course before you start. The **engine** that runs deals (skills, Boot, send gate, live memory) stays in the paid package when open.
 

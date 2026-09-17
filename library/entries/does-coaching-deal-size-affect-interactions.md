@@ -15,7 +15,7 @@ updated_pt: 2026-09-06 1830
 
 ## Executive summary
 
-Approximately fifty percent of deals are closed within five interactions or less, with another one-third of additional deals closing in less than 10 interactions with buyers. B2B sales calls costs an average of $275$350 per interaction, and can increase depending upon proximity and resources required. Organizations Benefit from Reducing Interactions Top organizations successfully reduce the number of interactions required to close.
+Approximately fifty percent of deals are closed within five interactions or less, with another one-third of additional deals closing in less than 10 interactions with buyers. B2B sales calls costs an average of $275-$350 per interaction, and can increase depending upon proximity and resources required. Organizations Benefit from Reducing Interactions Top organizations successfully reduce the number of interactions required to close.
 
 ## Bottom line
 

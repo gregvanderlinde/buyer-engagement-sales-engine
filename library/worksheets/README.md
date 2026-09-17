@@ -9,7 +9,8 @@
 | --- | --- |
 | `cprd-self-read.md` | `_system/templates/13_CPRD_SelfRead.md` |
 | `role-jd-read.md` | `_system/templates/12_Role_Card.md` |
-| `continuum-completeness.md` | `_system/templates/06_Continuum_Tracker.md` (completeness strip) |
+| `continuum-completeness.md` | `_system/templates/06_Continuum_Tracker.md` (completeness strip) |
+| `missing-to-close.md` | Three clocks (Trust/Continuum/Certainty) + confirmations (5066 v2 / 5081); cites term:completeness + term:continuum + continuum-completeness worksheet |
 | `buyer-profile.md` | `_system/templates/11_Buyer_Profile.md` |
 
 ### Free operator rule

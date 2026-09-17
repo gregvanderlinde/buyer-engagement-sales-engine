@@ -4,21 +4,44 @@ title: Qualified Outcomes Question Bank
 category: 10 Qualified Outcomes
 kind: worksheet
 tier: Core
-related: [term:questioning, term:qualified-outcomes-match, worksheet:qualified-outcomes-form]
-version: v1
-updated_pt: 2026-09-06 1805PT
+related: [term:questioning, term:qualified-outcomes-match, worksheet:qualified-outcomes-form, term:qualified-wedge]
+version: v2
+updated_pt: 2026-09-14 2315PT
 ---
 
 # Qualified Outcomes Question Bank
 Sample questions by match factor -- guidelines, not a script.
 
 ## Bottom line
-A merged bank for Business Objectives, projects, issues, current solution, differentiation, Numbers, Win, and stakeholders. Use as prompts; put every question in the buyer's language.
+A merged bank for Business Objectives / MBOs, Desired Outcomes toward and away, projects, issues, current solution, differentiation, Numbers, Win, and stakeholders. Use as prompts; put every question in the buyer's language.
 
 ## When to use
 - Building a talk track before a discovery or validation call.
 - Filling gaps on the Form when a factor is still zero.
 - Coaching sellers who need better second- and third-level questions.
+- Growing a Qualified / Qualified Wedge that includes MBO language.
+
+## MBO + Desired Outcome prompts (5078 / 5078a)
+Add these before or beside Business Objectives. Never invent answers.
+
+### MBO (Management by Objective)
+- What objective are you measured on this quarter / this year that this work must serve?
+- How does your manager (or the board) score success for this seat?
+- What constraint sits on that objective -- timing, budget window, headcount, harvest date?
+- If this initiative slipped, which measure would show it first?
+
+### Desired Outcome -- toward
+- What do you want true that is not true today -- in your words?
+- When this is working, what will you see that you do not see now?
+- Which outcome matters most for the objective you are measured on?
+
+### Desired Outcome -- away
+- What do you need to avoid, stop, or not risk?
+- What would a bad outcome look like for you / the business?
+- Which avoid is non-negotiable for the seat that signs?
+
+## Sequencing notes (How-We-Help thinking -- not a hard runtime throttle)
+Help fill the engagement answers across the pursuit (account, people, alignment, market). Prefer covering the full question map over a mass pitch. Sequence thoughtfully: MBO and Desired Outcomes (toward/away), then projects and issues, then current solution, then capabilities, then Numbers / Win / stakeholders. Progress-track blanks (toward / away / MBO / wedge status). Do not dump the whole bank in one turn as a pitch; do not claim a product rule that forbids multi-part clarification when the seller needs it.
 
 ## What it covers
 
@@ -88,18 +111,10 @@ A merged bank for Business Objectives, projects, issues, current solution, diffe
 Prefer who / what / when / where / how / why / tell me about / help me understand. Avoid yes-no traps until you are validating. Wide open first; deepen; validate.
 
 ## How to run it (seller)
-1. Pick 5-8 questions that match the zero factors on your Form -- not the whole bank.
+1. Pick 5-8 questions that match the zero factors on your Form -- not the whole bank. Include at least one MBO and one toward or away Desired Outcome prompt when those fields are blank.
 2. Rewrite each in the buyer's vocabulary from research.
-3. Sequence: objectives and projects, then issues and current solution, then capabilities, then outcomes and stakeholders.
-4. After the call, retire questions that felt survey-like; keep the ones that opened dialogue.
+3. Sequence: MBO + Desired Outcomes, then objectives and projects, then issues and current solution, then capabilities, then outcomes and stakeholders.
+4. After the call, retire questions that felt survey-like; keep the ones that opened dialogue. Update role-card / Form MBO and toward/away fields with [FOUND] / [CONFIRM] only -- never invent.
 
 ## Related
-Learn: term:questioning; term:engagement-questions; worksheet:qualified-outcomes-form; worksheet:qualified-outcomes-cheat-sheets
-
-## FREE PREVIEW ENDS HERE
-
-Upgrade to the full library from The Buyer Engagement Sales Engine for Understanding it, Put it into practice, and the complete worksheet body.
-
-*This free pack ships preview-only content. Paid depth is absent by design.*
-
-*The Buyer Engagement Sales Engine -- Free Library preview*
+Learn: term:questioning; term:engagement-questions; term:qualified-wedge; worksheet:qualified-outcomes-form; worksheet:qualified-outcomes-cheat-sheets

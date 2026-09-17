@@ -14,4 +14,8 @@ Upgrade to the full library from The Buyer Engagement Sales Engine for Understan
 
 *This free pack ships preview-only content. Paid depth is absent by design.*
 
-*The Buyer Engagement Sales Engine -- Free Library preview*
+*The Buyer Engagement Sales Engine -- Free Library preview*
+
+Companion: worksheet `missing-to-close.md` (three clocks + confirmations; 5066 v2 / 5081).
+
+Learn: term:completeness; term:continuum; term:lock; tool:missing-to-close
