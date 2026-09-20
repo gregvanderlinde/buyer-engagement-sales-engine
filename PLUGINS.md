@@ -120,7 +120,7 @@ Replace `/path/to/buyer-engagement-sales-engine` with your durable clone folder.
 
 | --- | --- |
 
-| `bese-free-orient` | What Free is / Golden Wedge |
+| `bese-free-orient` | What Free is / Qualified Wedge |
 
 | `bese-free-fit` | Fit Chat |
 

@@ -16,7 +16,7 @@
 
 | Offer | Price | Link | Window |
 | --- | --- | --- | --- |
-| **Momentum -- first year** | `$40` USD one-time | PENDING_CREATOR_STRIPE_40 | Through **2026-09-30** |
+| **Momentum -- first year** | `$40` USD one-time | https://buy.stripe.com/9B63cpcbs5az9IX1e2dQQ02 | Through **2026-09-30** |
 | **Run -- annual** | `$499` USD / year | https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01 | From **2026-10-01** (also available now if you prefer list) |
 
 Momentum is first-year access at the Momentum price. After 2026-09-30, use the Run annual link. (Founding/Intro $199 superseded by Momentum $40 2026-09-16.)

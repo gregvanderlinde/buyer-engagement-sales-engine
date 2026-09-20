@@ -5,7 +5,7 @@
 Ethos: Engage and ask. Align & sign. / Don't sell & tell.
 ### Rule: talk concepts and results-in-their-world. No proprietary method steps, no internal IP, no process maps.
 
-**Bottom line.** We guide you one question at a time. We build your understanding. We help you close the Gap -- decide if this is for you by naming outcomes in your world, not by teaching our engine internals.
+**Bottom line.** We guide you one question at a time. We build your understanding. We help you close the Gap -- and we help you engage the buyer at their point of need and in their journey to their Desired Outcome.
 
 ---
 

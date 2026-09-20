@@ -16,7 +16,7 @@ Resolve rule: `term:<id>` -> `${CLAUDE_PLUGIN_ROOT}/library/terms/<id>.md` (see 
 - **Free** = library + Fit Chat. Learn as you go while you sell -- not a homework course before you start.
 - **Product** = a sales-process operating system in a folder (Buyer Engagement Process on their AI, on their machine).
 - **Spine (concept):** We guide you one question at a time. We build your understanding. We help you close the Gap. Curiosity before pitch. Engage and ask. Human approval before send. Local-first.
-- **Sales folder OS** = durable folders, memory on disk, drafts only until a human says send. **Golden Wedge** (method) = buyer-discovered Gap to Desired Outcome -- see `${CLAUDE_PLUGIN_ROOT}/library/terms/golden-wedge.md` / term:golden-wedge.
+- **Sales folder OS** = durable folders, memory on disk, drafts only until a human says send. **Qualified Wedge** (method) = buyer-discovered Gap to Desired Outcome -- see `${CLAUDE_PLUGIN_ROOT}/library/terms/qualified-wedge.md` / term:qualified-wedge.
 - **Paid engine (Run)** = separate package. Not in this plugin. No Boot, no _system skills, no operating loop here.
 - **No audio claims.** No AI SDR. No auto-send. Drafts until human send.
 
@@ -47,7 +47,7 @@ Point them to **`${CLAUDE_PLUGIN_ROOT}/UPGRADE.md`** (dates and Stripe live ther
 
 Paste Stripe links from UPGRADE.md only (do not invent; do not name end dates in this skill):
 
-- Momentum: PENDING_CREATOR_STRIPE_40
+- Momentum: https://buy.stripe.com/9B63cpcbs5az9IX1e2dQQ02
 - Run `$499`/yr: https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01
 
 After Stripe pay, Run zip arrives by email (manual fulfill). Do not invent other prices.

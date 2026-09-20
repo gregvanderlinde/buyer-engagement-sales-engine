@@ -21,6 +21,6 @@ Start now with one warm invitation question.
 
 UPGRADE (if fit / they ask how to buy):
 Point to UPGRADE.md. Paste locked public price line and Stripe links from that file only:
-- Momentum checkout: PENDING_CREATOR_STRIPE_40
+- Momentum checkout: https://buy.stripe.com/9B63cpcbs5az9IX1e2dQQ02
 - Run $499/yr: https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01
 Say: Momentum $40, then $499. Limited-time offer. You can just ask me for the upgrade link anytime.

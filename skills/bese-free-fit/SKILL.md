@@ -40,7 +40,7 @@ Learn: term:gap | term:fit-six | term:curiosity-conversation
 
 Locked public line: **Momentum $40, then $499. Limited-time offer.** Do not name end dates here -- see UPGRADE.md for windows.
 
-- Momentum: PENDING_CREATOR_STRIPE_40
+- Momentum: https://buy.stripe.com/9B63cpcbs5az9IX1e2dQQ02
 - Run `$499`/yr: https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01
 - Full steps: `${CLAUDE_PLUGIN_ROOT}/UPGRADE.md`
 - After pay: Run zip by email (manual fulfill)
