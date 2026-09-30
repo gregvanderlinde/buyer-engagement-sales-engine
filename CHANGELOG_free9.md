@@ -1,7 +1,6 @@
 # CHANGELOG -- Free 1.0.10-free.9
 
 DATE: 2026-09-30 PT
-STATUS: branch only; git push to main and GitHub Release HELD (Creator OK required)
 
 ## Changes
 - Price: CA$40 -- intro offer, one-time, no end date. Checkout via Lemon Squeezy with automatic download and receipt.
@@ -14,12 +13,9 @@ STATUS: branch only; git push to main and GitHub Release HELD (Creator OK requir
 - package_align: v1.0.10-beta.17 (VERSION.txt and PLUGINS.md)
 - Owner name and email removed from Free: plugin manifests now name the product as author (no email); PLUGINS.md licence line and UPGRADE.md contact list no longer carry them. The repo URL keeps its GitHub handle.
 
-## Checks (this release branch, final tree)
+## Checks (final tree)
 - Price surfaces: CA$40 + one Lemon Squeezy checkout URL (6 uses, all identical); no old annual price, old checkout links or date windows anywhere in the repo.
 - Free boundary: every live library entry stops at FREE PREVIEW ENDS HERE; term cards stay short-form.
 - Qualified Wedge: golden-wedge is a SUPERSEDED stub only.
 - Brand: banned-term scan clean.
 - Links: 2006 relative links in .md/.html/.txt, 0 broken.
-
-## Not in this cut
-- origin push to main / GitHub Release (held for Creator OK)
