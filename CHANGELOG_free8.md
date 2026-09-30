@@ -7,7 +7,7 @@ STATUS: on disk; git push HELD (Creator OK copy, hold push)
 - Gap-first public spine + Desired Outcome journey line (Creator lock)
 - Qualified Wedge (retire Golden wording on Free surface)
 - How we help (5 buyer-voice lines) on README
-- Momentum  Stripe LIVE: https://buy.stripe.com/9B63cpcbs5az9IX1e2dQQ02
+- Momentum $40 Stripe LIVE: https://buy.stripe.com/9B63cpcbs5az9IX1e2dQQ02
 - package_align: v1.0.10-beta.9
 
 ## Not in this cut

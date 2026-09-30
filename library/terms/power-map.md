@@ -1,14 +1,5 @@
-# term:power-map -- Power Map
+# term:power-map -- SUPERSEDED
 
-**Bottom line:** map who signs, sponsors, champions, influences, and vetoes -- single-threaded deals die.
+**Status:** SUPERSEDED by term:engagement-map (2026-09-29). Retired name (SUPERSEDED): Power Map -> Engagement Map.
 
-**In here:**
-- Decision seats and approval path
-- Multi-thread the committee
-- Link each seat to its Role Card
-
-## Body
-
-Who signs, sponsors, champions, influences, vetoes -- plus the approval path. Single-threaded deals die; map the committee and multi-thread.
-
-Related: term:why-multithread, term:know-thy-customer, term:buyer-engagement-plan.
+See: term:engagement-map (`library/terms/engagement-map.md`).

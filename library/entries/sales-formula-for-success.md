@@ -4,7 +4,7 @@ title: The Sales Formula for Success
 category: 03 Sales 101
 tier: Core
 reading_time: ~5 min
-related: [gap, buyer-engagement-process, power-map, buyer-engagement-plan]
+related: [gap, buyer-engagement-process, engagement-map, buyer-engagement-plan]
 worksheet: none
 version: v1
 updated_pt: 2026-09-06 1400
@@ -26,7 +26,7 @@ Treat the formula as a discipline, not a slogan. When each factor is present and
 - Why process variables matter and diligence beats freestyle.
 - Each factor in the formula and what it demands of you.
 - Business vs personal value.
-- How the factors connect to the Gap, Power Map, and Buyer Engagement Plan.
+- How the factors connect to the Gap, Engagement Map, and Buyer Engagement Plan.
 
 ## FREE PREVIEW ENDS HERE
 
@@ -36,7 +36,7 @@ Upgrade to the full library from The Buyer Engagement Sales Engine for Understan
 
 ## Related in the library
 
-Learn: term:gap, term:buyer-engagement-process, term:power-map, term:buyer-engagement-plan
+Learn: term:gap, term:buyer-engagement-process, term:engagement-map, term:buyer-engagement-plan
 
 ---
 

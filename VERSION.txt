@@ -1,11 +1,11 @@
 product: The Buyer Engagement Sales Engine
 surface: Free library + Fit Chat
 plugin_id: buyer-engagement-sales-engine-free
-version: 1.0.10-free.8
-package_align: v1.0.10-beta.9
-date_pt: 2026-09-19
+version: 1.0.10-free.9
+package_align: v1.0.10-beta.17
+date_pt: 2026-09-30
 channel: free
 hosts: Claude Code plugin + Grok Build plugin
 github: https://github.com/gregvanderlinde/buyer-engagement-sales-engine
-discovery_keywords: sales, sales-process, buyer-engagement, sales-methodology, sales-os, local-first, claude, claude-code, claude-plugin, grok, ai-sales, fit-chat, free-library, qualified-wedge, mit
-note: free.8 -- Gap spine + Desired Outcome journey + Qualified Wedge; Momentum Stripe LIVE; align beta.9
+discovery_keywords: sales, sales-process, buyer-engagement, sales-methodology, sales-os, local-first, claude, claude-code, claude-plugin, grok, ai-sales, fit-chat, free-library, mit
+note: free.9 -- landing pages refreshed (README + UPGRADE + PLUGINS + HOW_WE_HELP); price switched to CA$40 intro (no end date) via Lemon Squeezy checkout with automatic download; $499/Stripe links/date windows and public method-name mentions removed; align beta.17.

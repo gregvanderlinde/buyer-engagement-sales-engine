@@ -1,15 +1,5 @@
-# term:minimum-acceptable-commitment -- Minimum Acceptable Commitment
+# term:minimum-acceptable-commitment -- SUPERSEDED
 
-**Bottom line:** The response to requests for commitment demonstrates a buyer's true intentions.
+**Status:** SUPERSEDED by term:minimum-engagement-step (2026-09-29). Retired name (SUPERSEDED): Minimum Acceptable Commitment -> Minimum Engagement Step.
 
-**In here:**
-- What the practice is and why it matters
-- How it connects to Buyer Engagement
-- Full Entry: library/entries/minimum-acceptable-commitment.md
-
-## Body
-
-The response to requests for commitment demonstrates a buyer's true intentions. Use the Full Library Entry for the framing, examples, and practice notes.
-
-Related: term:objection-handling, term:dont-give-without-getting
-Learn: term:minimum-acceptable-commitment
+See: term:minimum-engagement-step (`library/terms/minimum-engagement-step.md`).

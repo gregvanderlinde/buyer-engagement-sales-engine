@@ -18,7 +18,7 @@ A deal's stage is what is FILLED and CONFIRMED on the Buyer Profile + Continuum,
 
 **Forecast rule:** weight known + committed only; guesses stay visible but score zero. Never a fake close %.
 
-**Lock rule:** Lock only after the Economic buyer + the deciding seat(s) confirm known commitments. Word Bank: Buyer Profile (not BEP).
+**Lock rule:** Lock only after the Signer + the deciding seat(s) confirm known commitments. Word Bank: Buyer Profile (not BEP).
 
 Stage is DERIVED from the strip, not typed by the rep. Free front: `library/worksheets/continuum-completeness.md`. Full Run template kit is paid-only (not in this Free zip).
 

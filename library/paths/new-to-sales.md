@@ -60,10 +60,10 @@ When a step needs a full form: on Free, open the matching `library/worksheets/<n
 - Artifact (Run): Buyer Profile from the Run template kit
 
 ### Week 3 -- Prove + who decides
-- Serve: `term:qualified-outcomes`, `term:power-map`, `term:why-multithread`
+- Serve: `term:qualified-outcomes`, `term:engagement-map`, `term:why-multithread`
 - Learn: `term:completeness`
 - Free worksheet fronts: `library/worksheets/qualified-outcomes-form.md`, `library/worksheets/continuum-completeness.md`
-- Artifact (Free): QO + Power Map notes on the same deal; blank/guess/known/committed labeled honestly
+- Artifact (Free): QO + Engagement Map notes on the same deal; blank/guess/known/committed labeled honestly
 - Artifact (Run): same on live Continuum / Profile with completeness strip
 
 ### Week 4 -- Ask + carry

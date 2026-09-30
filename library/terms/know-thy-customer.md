@@ -1,11 +1,11 @@
 # term:know-thy-customer -- Know Thy Customer (Role / JD / Focus)
 
-**Bottom line:** learn the buyer's ROLE from their job description and current focus, then feed it into the Buyer Profile and Power Map.
+**Bottom line:** learn the buyer's ROLE from their job description and current focus, then feed it into the Buyer Profile and Engagement Map.
 
 **In here:**
 - Living Role Card (JD + measured_on + current_focus)
 - JD + Focus intake (pull / mine / free-find; [FOUND]/[CONFIRM])
-- How it feeds Fit Six + Power Map
+- How it feeds Fit Six + Engagement Map
 - Update never overwrite
 
 ## Why
@@ -27,10 +27,10 @@ Workspace home: `work/roles/<RoleTitle>.md` (e.g. `work/roles/VP_Sales.md`). Com
 - job_description + measured_on -> Fit Six Desired Outcome and Priorities
 - typical_pains + current_focus -> Fit Six Roadblocks and Current State
 - edge_angle -> ties seller Edge to this seat
-- Each Power Map seat links its Role Card
+- Each Engagement Map seat links its Role Card
 
 ## Ethics
 
 Public / provided sources only; tag [CONFIRM] on inference; never fabricate a person's focus. Understanding the role, not profiling the private individual.
 
-Related: term:power-map, term:fit-six, term:icp, term:discovery.
+Related: term:engagement-map, term:fit-six, term:icp, term:discovery.

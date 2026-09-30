@@ -43,14 +43,13 @@ Still obey HOW_WE_HELP.md -- no proprietary rebuild, no process maps as a recipe
 
 ## Upgrade path (when they ask how to buy)
 
-Point them to **`${CLAUDE_PLUGIN_ROOT}/UPGRADE.md`** (dates and Stripe live there only). Locked public line: **Momentum $40, then $499. Limited-time offer.**
+Point them to **`${CLAUDE_PLUGIN_ROOT}/UPGRADE.md`** (the checkout link lives there only). Locked public line: **CA$40 -- intro offer.**
 
-Paste Stripe links from UPGRADE.md only (do not invent; do not name end dates in this skill):
+Paste the checkout link from UPGRADE.md only (do not invent links, prices or dates):
 
-- Momentum: https://buy.stripe.com/9B63cpcbs5az9IX1e2dQQ02
-- Run `$499`/yr: https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01
+- Checkout (Lemon Squeezy): https://buyerengagementsalesengine.lemonsqueezy.com/checkout/buy/2fb92e7d-a0b7-4722-bd8b-6cf5711ca34e
 
-After Stripe pay, Run zip arrives by email (manual fulfill). Do not invent other prices.
+After checkout, the download and a receipt arrive automatically. Do not invent other prices.
 
 ## Hard limits
 
@@ -62,6 +61,6 @@ Engage and ask. Align & sign. Don't sell & tell. Curiosity In. Alignment. Outcom
 
 ## Say this once on install
 
-Free stays free. When you want Run, **just ask for the upgrade link** -- I will paste the locked Stripe URL from UPGRADE.md (no invented prices; no end dates spoken here).
+Free stays free. When you want Run, **just ask for the upgrade link** -- I will paste the locked Lemon Squeezy checkout link from UPGRADE.md (no invented prices; no end dates spoken here).
 
 Learn: term:buyer-engagement | term:engage-not-pitch-and-prove | library/GLOSSARY.md

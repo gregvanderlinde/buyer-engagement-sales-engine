@@ -20,6 +20,7 @@ Pure ASCII. Resolve `term:<id>` -> `library/terms/<id>.md`.
 | term:engage-not-pitch-and-prove | Engage -- Not Pitch and Prove | system | Core | terms/engage-not-pitch-and-prove.md |
 | term:curiosity-conversation | The Curiosity Conversation (Open/Curious/Confirm) | system | Core | terms/curiosity-conversation.md |
 | term:gap | The Gap | system | Core | terms/gap.md |
+| term:gap-state | Gap State (Felt Gap / Outcome Gap / Unseen Gap / Denied Gap) | system | Core | terms/gap-state.md |
 | term:qualified-wedge | Qualified Wedge | system | Core | terms/qualified-wedge.md |
 | term:fit-six | Fit Six | system | Core | terms/fit-six.md |
 | term:qualified-outcomes | Qualified Outcomes (Numbers x Win) | system | Core | terms/qualified-outcomes.md |
@@ -28,7 +29,8 @@ Pure ASCII. Resolve `term:<id>` -> `library/terms/<id>.md`.
 | term:unique-capability-match | Unique Capability Match | system | Core | terms/unique-capability-match.md |
 | term:qualified-outcomes-match | Qualified Outcomes Match | system | Core | terms/qualified-outcomes-match.md |
 | term:qualified-outcomes-prospecting | Prospecting with Qualified Outcomes | system | Core | terms/qualified-outcomes-prospecting.md |
-| term:power-map | Power Map | system | Core | terms/power-map.md |
+| term:engagement-map | Engagement Map | system | Core | terms/engagement-map.md |
+| term:power-map | Power Map (SUPERSEDED -> Engagement Map) | system | Retired | terms/power-map.md |
 | term:buyer-engagement-plan | Buyer Engagement Plan | system | Core | terms/buyer-engagement-plan.md |
 | term:lock | Lock | system | Core | terms/lock.md |
 | term:continuum | Continuum (Conversation/Contact/Account) | system | Core | terms/continuum.md |
@@ -48,7 +50,7 @@ Pure ASCII. Resolve `term:<id>` -> `library/terms/<id>.md`.
 | term:why-curiosity | Why curiosity before pitch | sales-why | Core | terms/why-curiosity.md |
 | term:why-walk-zero-fit | Why a zero Fit factor walks away | sales-why | Core | terms/why-walk-zero-fit.md |
 | term:why-ratios | Why ratios, never invented proof | sales-why | Core | terms/why-ratios.md |
-| term:why-multithread | Why multi-thread the Power Map | sales-why | Core | terms/why-multithread.md |
+| term:why-multithread | Why multi-thread the Engagement Map | sales-why | Core | terms/why-multithread.md |
 | term:seed-dont-shame | Seed the premise; don't lead with their failure | sales-why | Core | terms/seed-dont-shame.md |
 | term:features-and-benefits | Features and Benefits | system | Core | terms/features-and-benefits.md |
 | term:five-types-of-closing | Five Types of Closing | system | Core | terms/five-types-of-closing.md |
@@ -121,11 +123,13 @@ Pure ASCII. Resolve `term:<id>` -> `library/terms/<id>.md`.
 | term:avoidable-mistakes-made-by-sales-leaders | Avoidable Mistakes Made by Sales Leaders | system | Core | terms/avoidable-mistakes-made-by-sales-leaders.md |
 | term:becoming-a-priority | Becoming a Priority | system | Core | terms/becoming-a-priority.md |
 | term:benefits-of-a-forecasting-process | Benefits of a Forecasting Process | system | Core | terms/benefits-of-a-forecasting-process.md |
-| term:best-action-commitment | Best Action Commitment | system | Core | terms/best-action-commitment.md |
+| term:appropriate-engagement-step | Appropriate Engagement Step | system | Core | terms/appropriate-engagement-step.md |
+| term:best-action-commitment | Best Action Commitment (SUPERSEDED -> Appropriate Engagement Step) | system | Retired | terms/best-action-commitment.md |
 | term:building-alignment-to-eliminate-barriers | Building Alignment with Buyers to Eliminate Barriers | system | Core | terms/building-alignment-to-eliminate-barriers.md |
 | term:buyer-alignment-and-value-justification | Buyer Alignment and Value Justification | system | Core | terms/buyer-alignment-and-value-justification.md |
 | term:buyers-commitment-to-action | Buyers Commitment to Action | system | Core | terms/buyers-commitment-to-action.md |
-| term:buying-influences | Buying Influences | system | Core | terms/buying-influences.md |
+| term:engaged-buyers | Engaged Buyers | system | Core | terms/engaged-buyers.md |
+| term:buying-influences | Buying Influences (SUPERSEDED -> Engaged Buyers) | system | Retired | terms/buying-influences.md |
 | term:change-in-the-sales-environment | Change in the Sales Environment | system | Core | terms/change-in-the-sales-environment.md |
 | term:cheat-sheet-for-comparing-compensation-plans | Cheat Sheet for Comparing Compensation Plans | system | Core | terms/cheat-sheet-for-comparing-compensation-plans.md |
 | term:classifying-buyer-pain | Classifying Buyer Pain | system | Core | terms/classifying-buyer-pain.md |
@@ -183,10 +187,12 @@ Pure ASCII. Resolve `term:<id>` -> `library/terms/<id>.md`.
 | term:luck-comes-with-a-good-process | Luck Comes with a Good Process | system | Core | terms/luck-comes-with-a-good-process.md |
 | term:making-the-break-from-peer-to-leader | Making the Break from Peer to Leader | system | Core | terms/making-the-break-from-peer-to-leader.md |
 | term:managing-upper-management | Managing Upper Management | system | Core | terms/managing-upper-management.md |
-| term:minimum-acceptable-commitment | Minimum Acceptable Commitment | system | Core | terms/minimum-acceptable-commitment.md |
+| term:minimum-engagement-step | Minimum Engagement Step | system | Core | terms/minimum-engagement-step.md |
+| term:minimum-acceptable-commitment | Minimum Acceptable Commitment (SUPERSEDED -> Minimum Engagement Step) | system | Retired | terms/minimum-acceptable-commitment.md |
 | term:missed-sales-funnel-and-deal-review | Missed Sales Funnel and Deal Review | system | Core | terms/missed-sales-funnel-and-deal-review.md |
 | term:money-is-a-short-term-fix-motivate-right | Money is a Short Term Fix- Motivate Reps the Right Way | system | Core | terms/money-is-a-short-term-fix-motivate-right.md |
-| term:mutual-commitment | Mutual Commitment | system | Core | terms/mutual-commitment.md |
+| term:mutual-engagement | Mutual Engagement | system | Core | terms/mutual-engagement.md |
+| term:mutual-commitment | Mutual Commitment (SUPERSEDED -> Mutual Engagement) | system | Retired | terms/mutual-commitment.md |
 | term:networking-externally | Networking Externally | system | Core | terms/networking-externally.md |
 | term:networking-internally | Networking Internally | system | Core | terms/networking-internally.md |
 | term:no-pain-no-gain | No Pain No Gain | system | Core | terms/no-pain-no-gain.md |
