@@ -8,4 +8,4 @@ channel: free
 hosts: Claude Code plugin + Grok Build plugin
 github: https://github.com/gregvanderlinde/buyer-engagement-sales-engine
 discovery_keywords: sales, sales-process, buyer-engagement, sales-methodology, sales-os, local-first, claude, claude-code, claude-plugin, grok, ai-sales, fit-chat, free-library, mit
-note: free.9 -- landing pages refreshed (README + UPGRADE + PLUGINS + HOW_WE_HELP); price switched to CA$40 intro (no end date) via Lemon Squeezy checkout with automatic download; $499/Stripe links/date windows and public method-name mentions removed; align beta.17.
+note: free.9 -- landing pages refreshed (README + UPGRADE + PLUGINS + HOW_WE_HELP); price switched to CA$40 intro (no end date) via Lemon Squeezy checkout with automatic download; old price, checkout links, date windows and public method-name mentions removed; align beta.17.
