@@ -146,11 +146,11 @@ On Claude Code, skills are namespaced under the plugin, e.g. `/buyer-engagement-
 
 | Free plugin (Claude + Grok) | **1.0.10-free.9** | This repo / this marketplace |
 
-| Paid package (separate) | v1.0.10-beta.12 | Not shipped here |
+| Paid package (separate) | v1.0.10-beta.17 | Not shipped here |
 
 
 
-`package_align` in VERSION.txt ties Free plugin cut `.9` to package `v1.0.10-beta.12`.
+`package_align` in VERSION.txt ties Free plugin cut `.9` to package `v1.0.10-beta.17`.
 
 
 
