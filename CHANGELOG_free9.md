@@ -13,7 +13,7 @@ DATE: 2026-09-30 PT
 - package_align: v1.0.10-beta.17 (VERSION.txt and PLUGINS.md)
 - Owner name and email removed from Free: plugin manifests now name the product as author (no email); PLUGINS.md licence line and UPGRADE.md contact list no longer carry them. The repo URL keeps its GitHub handle.
 
-## Checks (release tree)
+## Checks (final tree)
 - Price surfaces: CA$40 + one Lemon Squeezy checkout URL (6 uses, all identical); no old annual price, old checkout links or date windows anywhere in the repo.
 - Free boundary: every live library entry stops at FREE PREVIEW ENDS HERE; term cards stay short-form.
 - Qualified Wedge: golden-wedge is a SUPERSEDED stub only.
