@@ -10,7 +10,7 @@ STATUS: branch only; git push to main and GitHub Release HELD (Creator OK requir
 - Removed from current Free surfaces: the old annual price, the old checkout links and date windows.
 - Library: 5 new entries (gap-state, engaged-buyers, mutual-engagement, minimum-engagement-step, appropriate-engagement-step), 6 new terms (the same 5 plus engagement-map), with preview_html for each; 66 existing files updated across entries, terms, preview_html, worksheets and paths.
 - Removed: library/GLOSSARY.md.bak_pre_p2_2026-09-16_1330PT (stale backup).
-- Removed: CHANGELOG_free7.md, CHANGELOG_free8.md, CHANGELOG_FreeWire_v2_free7.md (internal history, not needed by buyers).
+- Removed: CHANGELOG_FreeWire_v2_free6.md, CHANGELOG_FreeWire_v2_free7.md, CHANGELOG_free7.md, CHANGELOG_free8.md (internal history, not needed by buyers).
 - package_align: v1.0.10-beta.17 (VERSION.txt and PLUGINS.md)
 - Owner name and email removed from Free: plugin manifests now name the product as author (no email); PLUGINS.md licence line and UPGRADE.md contact list no longer carry them. The repo URL keeps its GitHub handle.
 
