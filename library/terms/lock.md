@@ -9,6 +9,6 @@
 
 ## Body
 
-Confirm what the conversation already built. Never a surprise close. If you have to spring it, you skipped a rung. Lock only after the Economic buyer + deciding seat(s) confirm known commitments (see term:completeness).
+Confirm what the conversation already built. Never a surprise close. If you have to spring it, you skipped a rung. Lock only after the Signer + deciding seat(s) confirm known commitments (see term:completeness).
 
 Related: term:buyer-engagement-plan, term:completeness, term:continuum.

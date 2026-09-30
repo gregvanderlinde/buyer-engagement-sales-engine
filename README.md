@@ -2,88 +2,88 @@
 
 # The Buyer Engagement Sales Engine
 
-**Engage and ask. Align & sign.**
+### Curiosity In. Alignment. Outcomes Out.
 
-*Don't sell & tell.
+> The deal is usually lost before the meeting — in the preparation nobody had time to do.
 
-Curiosity In. Alignment. Outcomes Out.
+## What it is
 
-We guide you one question at a time. We build your understanding.
-We help you close the Gap -- and we help you engage the buyer at their
-point of need and in their journey to their Desired Outcome.
+A sales process that runs on your own machine and does the preparation a complex deal needs. It learns your business from your own files — what you sell, what only you do, and the things that must never leave the building. It researches a company and maps who signs, who can veto, and who has to live with it. It builds every message from what is true, aimed at a named person, with the reasoning attached. Nothing sends without your yes.
 
-Qualified Wedge: buyer-discovered Gap to Desired Outcome -- not a pitch.
-Right person, right level. Human approval before send. Local-first.
+**This repository is the free library** — the method written out so you can read it and use it while you sell. The full engine that runs your deals is the paid upgrade.
 
----
+## Know your business. Know yourself. Know your customer.
 
-## What this is
+The engine is built on three kinds of knowing, and it aligns them to each buyer's profile:
 
-This repo is the **Free library** for **The Buyer Engagement Sales Engine** -- a **sales-process operating system in a folder**.
+- **Know your business** — your truth, built from your own files: what you sell, your edge, your proof, and what must never leave the building.
+- **Know yourself** — your own way of selling, so you play to your strengths instead of copying someone else's.
+- **Know your customer** — each account and every person in it researched, and mapped to who decides and what they care about.
 
-The full product runs the **Buyer Engagement Process** on **your** AI (Claude or Grok), on **your** machine: durable folders, memory on disk, drafts only until **you** say send. Sales folder OS: durable process on disk beside your AI.
+Every step aligns to your buyer's profile, keeps what's private private, and shows the reason for each move — so you learn as you go from the library.
 
-**Qualified Wedge:** buyer-discovered Gap to Desired Outcome -- not a pitch wedge. Right person, right level.
+## What we are not
 
-Here you get the **words and ideas** (terms, preview entries, worksheet fronts, Fit Chat). A library you can browse and use **while you sell** -- learn as you go, not a homework course before you start. The **engine** that runs deals (skills, Boot, send gate, live memory) stays in the paid package when open.
+- **Not** a spam sales engine.
+- **Not** for transactional, one-call sales.
+- **Not** volume outreach, auto-send, or invented proof — it refuses those by design.
 
-Curiosity before pitch. Engage and ask. Human approval before send. Local-first. Learn while working.
+Built for **complex sales**: more than one decision maker, and a longer sales cycle.
 
-Not another tip list. Not a cloud that owns your pipeline. Method vocabulary today; process OS when you're ready.
+## Whether you sell for a living or own the business
 
----
+- **If you sell for a living** — this adds credibility, insight and discipline to how you already work.
+- **If you own the business** — you don't have to become a salesperson. You already know the product or service. You are guided at every step, and you can tap into the learning library for the reasons why — or simply let the engine guide you.
 
-## How we help (buyer voice)
+## Who it is for
 
-1. We ask you one clear question at a time -- not a form that dumps twenty fields on you.
-2. We help you name the Gap in your words: where you want to be vs where you are today -- without shame.
-3. We keep you curious longer than the urge to pitch -- curiosity in, not pitch first.
-4. We help you line up what you are good at with the right person at the right level.
-5. We draft with you -- nothing leaves your machine until you say so.
+- **Founders and inventors** selling something new to organisations.
+- **Consultants and fractional leaders** who have to win new clients.
+- **Owners** whose deals need several people to agree.
+- **The salespeople who carry the deals:** the one who wants an edge on a complex account; the first hire taking over a desk — starting with everything the owner knows, not a blank page; and the account executive preparing a multi-person deal on their own (where their company allows it).
 
-More: [HOW_WE_HELP.md](HOW_WE_HELP.md)
+## Free library vs. the full engine
 
----
+| What you get | Free library (this repo) | The full engine |
+|---|:---:|:---:|
+| The method — entries, terms, worksheet fronts, a guided path | ✅ read & use | ✅ built in |
+| Runs inside your own Claude or Grok | ✅ | ✅ |
+| Learn the sale as you go, with the reason for each step | ✅ | ✅ |
+| Builds your seller truth from your own files | ❌ | ✅ |
+| Researches each account and every person in it | ❌ you do it | ✅ done for you |
+| Aligns each account to your buyer's profile | ❌ | ✅ |
+| Keeps what's private private — a never-say check on every draft | ❌ you watch it | ✅ checked for you |
+| Drafts every message in your voice, ready where you send | ❌ | ✅ never sends |
+| Remembers per-person rules across days | ❌ | ✅ |
+| Marks what isn't known instead of guessing | ❌ | ✅ |
+| A dashboard to track your accounts and progress | ❌ | ✅ |
+| A handover ready for your first salesperson | ❌ | ✅ |
+| Price | **Free** | **CA$40 — intro offer** |
 
-## Upgrade to Run
+## How the free library works
 
-Ready for the engine (Boot, skills, send gate on your machine)? See **[UPGRADE.md](UPGRADE.md)**.
+You get the **words and ideas** — terms, preview entries, worksheet fronts, and a guided path — to browse and use **while you sell**. Learn as you go, not a homework course before you start. The engine that runs deals (skills, Boot, the send gate, live memory) is the paid upgrade.
 
-- **Momentum -- first year** $40 one-time (through 2026-09-30): https://buy.stripe.com/9B63cpcbs5az9IX1e2dQQ02
-- **Run -- annual** $499/yr: https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01
+Curiosity before pitch. Engage and ask. Human approval before anything leaves. Local-first. Learn while working.
 
-After pay, you get the Run zip by email (manual fulfill). Free library stays free.
+## Upgrade to the full engine
 
----
+Ready for the engine that does the preparation for you — on your own machine, nothing sent without your yes?
 
-## Install as plugin
+**CA$40 — intro offer.** One-time. Automatic download and a receipt the moment you check out; you get updates as it improves.
 
-Claude Code and Grok Build can load this Free surface as a plugin.
+**→ [Get the engine](https://buyerengagementsalesengine.lemonsqueezy.com/checkout/buy/2fb92e7d-a0b7-4722-bd8b-6cf5711ca34e)** · details in **[UPGRADE.md](UPGRADE.md)**
 
-- Plugin id: uyer-engagement-sales-engine-free
-- Version: **1.0.10-free.8**
-- Free only -- paid engine not included
+The free library stays free.
 
-See **[PLUGINS.md](PLUGINS.md)** for **click-by-click** install (Claude Path A/B + Grok Build), skills table, and version table.
+## Install as a plugin
 
-## Discovery words (GitHub Topics)
+Claude Code and Grok Build can load this free library as a plugin. Click-by-click steps, the skills table, and the version table are in **[PLUGINS.md](PLUGINS.md)**.
 
-Suggested Topics for this repo (Settings -> Topics): sales, sales-process, uyer-engagement, sales-methodology, sales-os, local-first, claude, claude-code, claude-plugin, grok, i-sales, it-chat, qualified-wedge.
-
-About blurb: Free library for a sales-process OS in a folder -- close the Gap to Desired Outcome on your Claude/Grok. Learn as you go. Not an AI SDR.
-
-## What is in here (Free surface)
-
-`
-library/entries/     preview entries (teasers -- paid depth held back)
-library/terms/       term cards
-library/worksheets/  worksheet fronts
-library/paths/       guided path
-library/GLOSSARY.md
-brand/               logos and hero
-LICENSE              MIT
-HOW_WE_HELP.md       Fit orientation (concepts only)
-`
 ## License
 
-MIT -- see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE).
+
+---
+
+*Truth first, seats second, conversations third. It keeps the discipline of sales true — and brings the art of sales and the business of sales together.*

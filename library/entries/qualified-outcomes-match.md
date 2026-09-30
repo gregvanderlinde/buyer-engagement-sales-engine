@@ -4,7 +4,7 @@ title: Qualified Outcomes Match
 category: 10 Qualified Outcomes
 tier: Core
 reading_time: ~4 min
-related: [qualified-outcomes, unique-capability-match, gap, power-map]
+related: [qualified-outcomes, unique-capability-match, gap, engagement-map]
 worksheet: qualified-outcomes-form
 version: v1
 updated_pt: 2026-09-06 1805
@@ -36,7 +36,7 @@ Upgrade to the full library from The Buyer Engagement Sales Engine for Understan
 
 ## Related
 
-Learn: term:qualified-outcomes; term:unique-capability-match; term:power-map; term:gap; worksheet:qualified-outcomes-form; worksheet:qualified-outcomes-prompter
+Learn: term:qualified-outcomes; term:unique-capability-match; term:engagement-map; term:gap; worksheet:qualified-outcomes-form; worksheet:qualified-outcomes-prompter
 
 ---
 

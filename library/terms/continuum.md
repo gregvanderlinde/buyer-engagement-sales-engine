@@ -11,4 +11,4 @@
 
 Conversation -> Contact -> Account. The pursuit rolls up; nothing lives only in chat. Carry gaps forward; peg to real triggers.
 
-Related: term:completeness, term:power-map, term:lock.
+Related: term:completeness, term:engagement-map, term:lock.

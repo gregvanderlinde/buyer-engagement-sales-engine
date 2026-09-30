@@ -4,7 +4,7 @@ title: Missing to Close
 category: 07 Templates
 kind: worksheet
 tier: Core
-related: [term:completeness, term:continuum, term:trust-ladder, term:lock, term:buyer-engagement-plan, term:power-map, term:qualified-outcomes, term:gap, tool:continuum-completeness]
+related: [term:completeness, term:continuum, term:trust-ladder, term:lock, term:buyer-engagement-plan, term:engagement-map, term:qualified-outcomes, term:gap, tool:continuum-completeness]
 version: v1
 updated_pt: 2026-09-15 0715PT
 ---
@@ -15,7 +15,7 @@ Where the deal is -- and what confirmations are still missing. No guessing.
 ## Bottom line
 Close path = fill **confirmations**, not add features. List blanks. Guess stays [CONFIRM]. Never treat guess as known. Personal Win is spoken only -- never a bid line.
 
-Companion strip: worksheet `continuum-completeness.md` (points at Continuum Tracker + term:completeness). Terms: term:completeness, term:continuum, term:trust-ladder, term:lock, term:power-map.
+Companion strip: worksheet `continuum-completeness.md` (points at Continuum Tracker + term:completeness). Terms: term:completeness, term:continuum, term:trust-ladder, term:lock, term:engagement-map.
 
 ## When to use
 - Marketing Analysis / engine-market Part 1 account + priority seats (5066 v2 / 5081)
@@ -43,7 +43,7 @@ Companion strip: worksheet `continuum-completeness.md` (points at Continuum Trac
 | Fit Six -- Current State | | | | What / Where |
 | Fit Six -- Edge | | | | What / Who |
 | Gap statement | | | | What / Why |
-| Power Map (sign / champion / veto / missing) | | | | Who |
+| Engagement Map (Signer / Champion / Veto / missing) | | | | Who |
 | Give/get (last give vs last get) | | | | When / What get |
 | Business objectives / MBO or sales-territory objectives | | | | Why / When |
 | Numbers (business) | | | | What / When |
@@ -67,4 +67,4 @@ Part 1 questioning covers **WHAT / WHERE / WHY / WHEN / WHO**. HOW (packaging / 
 4. Draft next asks from the 5Ws column -- issue-led, not packaging-led.
 5. Strip Win / CPRD labels before any buyer-facing export.
 
-Learn: term:completeness; term:continuum; term:trust-ladder; term:lock; term:buyer-engagement-plan; term:power-map; term:qualified-outcomes; term:gap; term:dont-give-without-getting; term:mutual-commitment; term:seed-dont-shame; term:engage-not-pitch-and-prove; tool:continuum-completeness
+Learn: term:completeness; term:continuum; term:trust-ladder; term:lock; term:buyer-engagement-plan; term:engagement-map; term:qualified-outcomes; term:gap; term:dont-give-without-getting; term:mutual-engagement; term:seed-dont-shame; term:engage-not-pitch-and-prove; tool:continuum-completeness

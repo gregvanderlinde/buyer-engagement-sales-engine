@@ -4,7 +4,7 @@ title: Stakeholder Interview Guide
 category: 07 Templates
 kind: guide
 tier: Core
-related: [term:power-map, tool:rfp-formal-response]
+related: [term:engagement-map, tool:rfp-formal-response]
 version: v1
 updated_pt: 2026-09-06 1740PT
 ---
@@ -30,7 +30,7 @@ Topics: Introduction; Business Mandates; Department Results; Initiatives; Depart
 4. Ask who else to interview and whether they will join next steps.
 
 ## Related
-Learn: term:power-map; tool:rfp-formal-response
+Learn: term:engagement-map; tool:rfp-formal-response
 
 ## FREE PREVIEW ENDS HERE
 

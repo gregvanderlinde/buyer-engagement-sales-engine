@@ -15,7 +15,7 @@ updated_pt: 2026-09-06 2345
 
 ## Executive summary
 
-False champions adversely affect sales results. Sellers who confide in and rely on false champions will find that their sales opportunities dwindle. Sellers must be diligent when seeking to identify potential champions in the buying organization who can help them with their sales solution. True champions help persuade buying influences and offer sellers relevant and useful information in order to make the correct decisions during the sales process. Sellers must recognize, identify, and understand individuals within a buying organization who appear to be champions for a given sales objective. True champions will bolster a seller's position with buying influences and increase their chance of moving the sale forward.
+False champions adversely affect sales results. Sellers who confide in and rely on false champions will find that their sales opportunities dwindle. Sellers must be diligent when seeking to identify potential champions in the buying organization who can help them with their sales solution. True champions help persuade engaged buyers and offer sellers relevant and useful information in order to make the correct decisions during the sales process. Sellers must recognize, identify, and understand individuals within a buying organization who appear to be champions for a given sales objective. True champions will bolster a seller's position with engaged buyers and increase their chance of moving the sale forward.
 
 ## Bottom line
 

@@ -11,5 +11,5 @@
 
 Business impact without personal stakes stalls; personal stakes without business impact will not survive scrutiny. Keep returning to both.
 
-Related: term:qualified-outcomes, term:unique-capability-match, term:power-map, term:gap
+Related: term:qualified-outcomes, term:unique-capability-match, term:engagement-map, term:gap
 Learn: term:qualified-outcomes-match

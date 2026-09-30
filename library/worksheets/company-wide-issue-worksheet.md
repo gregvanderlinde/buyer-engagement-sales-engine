@@ -4,7 +4,7 @@ title: Company-Wide Issue Worksheet
 category: 07 Templates
 kind: worksheet
 tier: Core
-related: [term:power-map, term:gap]
+related: [term:engagement-map, term:gap]
 version: v1
 updated_pt: 2026-09-06 1740PT
 ---
@@ -30,7 +30,7 @@ Vertical worksheet: Name & Role, Issue, Reason -- repeated for each stakeholder.
 4. Use the map to tailor questions and solution positioning per role.
 
 ## Related
-Learn: term:power-map; term:gap
+Learn: term:engagement-map; term:gap
 
 ## FREE PREVIEW ENDS HERE
 

@@ -1,4 +1,4 @@
-# term:why-multithread -- Why multi-thread the Power Map
+# term:why-multithread -- Why multi-thread the Engagement Map
 
 **Bottom line:** one friendly contact is one point of failure -- multi-threading is how a deal survives a person.
 
@@ -9,6 +9,6 @@
 
 ## Body
 
-One friendly contact is one point of failure -- they change jobs, lose budget, or were never the decider. Multi-threading the Power Map is how a deal survives a person.
+One friendly contact is one point of failure -- they change jobs, lose budget, or were never the decider. Multi-threading the Engagement Map is how a deal survives a person.
 
-Related: term:power-map, term:know-thy-customer, term:continuum.
+Related: term:engagement-map, term:know-thy-customer, term:continuum.

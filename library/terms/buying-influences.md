@@ -1,15 +1,5 @@
-# term:buying-influences -- Buying Influences
+# term:buying-influences -- SUPERSEDED
 
-**Bottom line:** sellers must be aware of the within an organization.
+**Status:** SUPERSEDED by term:engaged-buyers (2026-09-29). Retired name (SUPERSEDED): Buying Influences -> Engaged Buyers.
 
-**In here:**
-- What the practice is and why it matters
-- How it connects to Buyer Engagement
-- Full Entry: library/entries/buying-influences.md
-
-## Body
-
-Sellers must be aware of the within an organization. Use the Full Library Entry for the framing, examples, and practice notes.
-
-Related: term:buyer-engagement-process, term:qualified-outcomes, term:gap
-Learn: term:buying-influences
+See: term:engaged-buyers (`library/terms/engaged-buyers.md`).

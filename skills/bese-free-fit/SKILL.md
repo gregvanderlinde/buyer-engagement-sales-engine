@@ -18,7 +18,7 @@ Resolve rule: `term:<id>` -> `${CLAUDE_PLUGIN_ROOT}/library/terms/<id>.md`.
 5. Prompt once: "Does this sound like it would help you -- or what would need to be true?"
 6. If fit: offer **one** of (their choice):
    - Free library starter pack (below), via library browse / handoff to bese-free-library
-   - Upgrade to Run via UPGRADE.md / Stripe links
+   - Upgrade to Run via UPGRADE.md / Lemon Squeezy checkout
 7. If not fit: say so and stop selling. If they still ask what Free is, one line only -- no reading dump.
 
 ## After fit / maybe -- starter pack (Free-safe)
@@ -38,17 +38,16 @@ Learn: term:gap | term:fit-six | term:curiosity-conversation
 
 ## Upgrade (only if fit / they ask)
 
-Locked public line: **Momentum $40, then $499. Limited-time offer.** Do not name end dates here -- see UPGRADE.md for windows.
+Locked public line: **CA$40 -- intro offer.** Do not invent prices, dates or links -- see UPGRADE.md.
 
-- Momentum: https://buy.stripe.com/9B63cpcbs5az9IX1e2dQQ02
-- Run `$499`/yr: https://buy.stripe.com/aFa6oBejAeL9bR52i6dQQ01
+- Checkout (Lemon Squeezy): https://buyerengagementsalesengine.lemonsqueezy.com/checkout/buy/2fb92e7d-a0b7-4722-bd8b-6cf5711ca34e
 - Full steps: `${CLAUDE_PLUGIN_ROOT}/UPGRADE.md`
-- After pay: Run zip by email (manual fulfill)
+- After pay: automatic download and receipt at checkout
 
 ## Never
 
 - No IP dump, no proprietary process, no internal architecture
-- No prices other than the locked Stripe links above
+- No prices other than the locked Lemon Squeezy checkout above
 - No fake ROI or case studies
 - No auto-send offers
 - Drafts and advice only

@@ -2,18 +2,16 @@
     "name": "buyer-engagement-sales-engine",
     "description": "The Buyer Engagement Sales Engine -- Free library marketplace",
     "owner": {
-        "name": "Greg van der Linde",
-        "email": "gregvanderlinde@gmail.com"
+        "name": "The Buyer Engagement Sales Engine"
     },
     "plugins": [
         {
             "name": "buyer-engagement-sales-engine-free",
             "source": "./",
             "description": "Free library + Fit Chat. Sales-process OS door for Claude/Grok -- learn as you go. Not an AI SDR. Not the paid engine.",
-            "version": "1.0.10-free.7",
+            "version": "1.0.10-free.9",
             "author": {
-                "name": "Greg van der Linde",
-                "email": "gregvanderlinde@gmail.com"
+                "name": "The Buyer Engagement Sales Engine"
             },
             "homepage": "https://github.com/gregvanderlinde/buyer-engagement-sales-engine",
             "keywords": [

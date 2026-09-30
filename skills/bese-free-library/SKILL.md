@@ -33,7 +33,7 @@ When they describe a moment (or ask "what should I read"), serve **2-4** assets 
 | First conversation / what to ask | `term:curiosity-conversation` | `term:engagement-questions`, `term:seed-dont-shame` | -- |
 | Deals go quiet / no next step | `term:dont-give-without-getting` | `term:continuum`, `term:send-gate` | -- |
 | Are we even a fit / qualify | `term:fit-six` | `term:why-walk-zero-fit`, `term:gap` | `library/worksheets/bid-or-no-bid-assessment.md` |
-| Who decides / stuck with one contact | `term:power-map` | `term:why-multithread` | -- |
+| Who decides / stuck with one contact | `term:engagement-map` | `term:why-multithread` | -- |
 | Numbers / value / proof | `term:qualified-outcomes` | `term:why-ratios` | `library/worksheets/qualified-outcomes-form.md` |
 | Forecast is a guess | `term:completeness` | `term:qualified-outcomes` | `library/worksheets/continuum-completeness.md` |
 | Style / how to talk to them | `term:cprd` | `term:selling-to-buyers-cprd`, `term:knowing-yourself-cprd` | `library/worksheets/cprd-self-read.md` |

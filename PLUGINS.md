@@ -1,6 +1,6 @@
 # Install as plugin -- Free only
 
-## Version 1.0.10-free.7
+## Version 1.0.10-free.9
 
 
 
@@ -12,7 +12,7 @@ Plugin id: `buyer-engagement-sales-engine-free`
 
 Display: Buyer Engagement Sales Engine -- Free
 
-Version: **1.0.10-free.7**
+Version: **1.0.10-free.9**
 
 
 
@@ -38,7 +38,7 @@ This marketplace / plugin ships the **Free** surface only. The paid engine (Boot
 
 | What | Library previews, HOW_WE_HELP, Fit Chat, three Free skills | Full engine: Boot, `_system`, send-gate operating loop, paid library depth |
 
-| Install | Plugin / marketplace from this GitHub repo | Separate Run package (Stripe / fulfill when open) |
+| Install | Plugin / marketplace from this GitHub repo | Separate full-engine package (Lemon Squeezy, automatic download) |
 
 | Expect | Orient, Fit Chat, browse `library/` | Do **not** expect Boot or engine skills from Free |
 
@@ -120,7 +120,7 @@ Replace `/path/to/buyer-engagement-sales-engine` with your durable clone folder.
 
 | --- | --- |
 
-| `bese-free-orient` | What Free is / Qualified Wedge |
+| `bese-free-orient` | What Free is / how to orient |
 
 | `bese-free-fit` | Fit Chat |
 
@@ -144,13 +144,13 @@ On Claude Code, skills are namespaced under the plugin, e.g. `/buyer-engagement-
 
 | --- | --- | --- |
 
-| Free plugin (Claude + Grok) | **1.0.10-free.7** | This repo / this marketplace |
+| Free plugin (Claude + Grok) | **1.0.10-free.9** | This repo / this marketplace |
 
-| Paid package (separate) | v1.0.10-beta.8 | Not shipped here |
+| Paid package (separate) | v1.0.10-beta.17 | Not shipped here |
 
 
 
-`package_align` in VERSION.txt ties Free plugin cut `.7` to package `v1.0.10-beta.8`.
+`package_align` in VERSION.txt ties Free plugin cut `.9` to package `v1.0.10-beta.17`.
 
 
 
@@ -184,14 +184,14 @@ Official Anthropic community directory submit / xAI marketplace PR -- separate G
 
 
 
-Licence: MIT for this Free surface. Author: Greg van der Linde / gregvanderlinde@gmail.com
+Licence: MIT for this Free surface.
 ---
 
 ## Upgrade to Run (paid)
 
 Free plugin does **not** include the engine. To buy Run:
 
-See **[UPGRADE.md](UPGRADE.md)** -- locked public line **Momentum $40, then $499. Limited-time offer.** Stripe links and any date windows live only in UPGRADE.md (do not invent prices or links).
+See **[UPGRADE.md](UPGRADE.md)** -- locked public line **CA$40 -- intro offer.** The Lemon Squeezy checkout link lives in UPGRADE.md (do not invent prices or links).
 
-After pay: manual zip fulfill by email. Free skills stay Free.
+After pay: automatic download via Lemon Squeezy. Free skills stay Free.
 

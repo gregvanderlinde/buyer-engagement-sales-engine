@@ -20,4 +20,4 @@ Qualified Outcomes sits on top of a **Unique Capability Match** (objectives, pri
 
 Category: 10 Qualified Outcomes.
 
-Related: term:gap, term:why-sales, term:truth-file, term:unique-capability-match, term:qualified-outcomes-match, term:qualified-outcomes-overview, term:power-map, worksheet:qualified-outcomes-form.
+Related: term:gap, term:why-sales, term:truth-file, term:unique-capability-match, term:qualified-outcomes-match, term:qualified-outcomes-overview, term:engagement-map, worksheet:qualified-outcomes-form.
