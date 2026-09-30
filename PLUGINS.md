@@ -184,7 +184,7 @@ Official Anthropic community directory submit / xAI marketplace PR -- separate G
 
 
 
-Licence: MIT for this Free surface. Author: Greg van der Linde / gregvanderlinde@gmail.com
+Licence: MIT for this Free surface.
 ---
 
 ## Upgrade to Run (paid)

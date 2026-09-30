@@ -33,5 +33,4 @@ This GitHub repository and the free plugin stay free: the library (entries, term
 
 ## Questions
 
-- LinkedIn: [Greg van der Linde](https://www.linkedin.com/in/gregvanderlinde)
 - Repo: [github.com/gregvanderlinde/buyer-engagement-sales-engine](https://github.com/gregvanderlinde/buyer-engagement-sales-engine)
